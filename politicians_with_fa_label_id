@@ -1,0 +1,662 @@
+id,politician_tag,label,labeledOrTranslated,gender,born_city
+1,Abbas Abdi,"عباس عبدی (سیاستمدار)",labeled,m,NotGiven
+2,Abbas Adham,عباس ادهم,labeled,m,NotGiven
+3,Abbas Ahmad Akhoundi,"عباس احمد آخوندی",labeled,m,NotGiven
+4,Abbas Ali Khalatbari,"عباسعلي خلعتبري",labeled,m,Tehran
+5,Abbas Amir Entezam,"عباس اميرانتظام",labeled,m,Tehran
+6,Abbas Aram,غلام‌عباس آرام,labeled,m,NotGiven
+7,Abbas Foroughi Bastami,"فروغي بسطامي",labeled,n,NotGiven
+8,Abbas Gharabaghi,"عباس قره باغی",labeled,m,Tabriz
+9,Abbas maleki,"عباس ملكي",labeled,m,NotGiven
+10,Abdolhossein Hazhir,"هژير",labeled,m,Kashan
+11,Abdol Hossein Mirza Farmanfarma,"عبدالحسين خان فرمانفرما",labeled,n,Tabriz
+12,Abdol Hossein Sardari,"عبدالحسين سردري",labeled,m,Tehran
+13,Abdolhossein Teymourtash,"عبدالحسین تیمورتاش",labeled,m,Bojnord
+14,Abdollah Javadi Amoli,"عبد الله جوادي آملي",labeled,m,NotGiven
+15,Abdollah Nouri,"عبدالله نوري",labeled,m,Isfahan
+16,Abdollah Ramezanzadeh,"عبدالله رمضانزاده",labeled,m,Tehran
+17,Abdol Majid Mirza,"عین‌الدوله",labeled,n,NotGiven
+18,Abdolmalek Rigi,"مالك ريگي",labeled,m,NotGiven
+19,Abdolreza Mesri,"عبدالرضا مصري",labeled,m,Kermanshah
+20,Abdolreza Rahmani Fazli,"رحمانی فضلی",labeled,m,Shirvan,_Iran
+21,Abdolvahed Mousavi Lari,"عبدالواحد موسوي لاري",labeled,m,Tehran
+22,Abdul Karim Mousavi Ardebili,"موسوي اردبيلي",labeled,m,Ardabil
+23,Abdullah Entezam,"عبدالله انتظام وزیری",labeled,m,NotGiven
+24,Abdul Rahman Ghassemlou,"عبدالرحمان وثوق",labeled,m,NotGiven
+25,Abolfazl Fateh,"ابوالفضل فاتح",labeled,m,NotGiven
+26,Abol Ghasem Kashani,"سیدابوالقاسم کاشانی",labeled,m,Tehran
+27,Abolhassan Banisadr,"بنی‌صدر",labeled,m,Hamedan
+28,Abolqasem Najm,"نجم الملك",labeled,m,Tehran
+29,Abu Muslim Khorasani,"ابو‌مسلم",labeled,m,Merv
+30,Adib Boroumand,"عبدالعلی ادیب برومند",labeled,m,NotGiven
+31,Ahmad Ahmadi (philosopher),"احمد احمدی (فیلسوف)",labeled,m,NotGiven
+32,Ahmad Amir Ahmadi,"احمداقا سرتيپ",labeled,m,Tehran
+33,Ahmad Bourghani,"احمد بورقانی",labeled,m,Tehran
+34,Ahmad Jannati,"آيت الله جنتي",labeled,m,Isfahan
+35,Ahmad Kashani,"سید احمد کاشانی",labeled,m,NotGiven
+36,Ahmad Khomeini,"سيد احمد خميني",labeled,m,Qom
+37,Ahmad Khorram,"احمد خرم",labeled,m,Isfahan
+38,Ahmad Madani,"احمد مدني",labeled,m,Kerman
+39,Ahmad Masjed Jamei,"احمد مسجد جامعي",labeled,m,Tehran
+40,Ahmad Matin Daftari,"متین الدوله",labeled,m,Tehran
+41,Ahmad Mirfendereski,احمد میرفندرسکی,labeled,m,NotGiven
+42,Ahmad Moftizadeh,"احمد مفتی‌زاده",labeled,m,NotGiven
+43,Ahmad Qavam,"احمد قوام السلطنه",labeled,m,Tehran
+44,Ahmad Sayyed Javadi,"احمد صدرحاج سید جوادی",labeled,m,Qazvin
+45,Ahmad Shirzad,"احمد شيرزاد",labeled,m,NotGiven
+46,Ahmad Tavakkoli,"احمد توکلی",labeled,m,Behshahr
+47,Ahmad Vahidi,"سردار احمد وحیدی",labeled,m,Shiraz
+48,Ahmad Zirakzadeh,"احمد زيرك زاده",labeled,m,Tehran
+49,Akbar A'lami,"اکبر اعلمی",labeled,m,NotGiven
+50,Akbar Hashemi Rafsanjani,"دولت هاشمی",labeled,m,Bahreman
+51,Akbar Mohammadi (student),"اکبر محمدی (فعال دانشجویی)",labeled,m,Amol
+52,Akbar Torkan,"اكبر تركان",labeled,m,Tehran
+53,Alaeddin Boroujerdi,"علاالدين بروجردي",labeled,m,NotGiven
+54,Alberto João Jardim,مادیرا,labeled,m,Funchal
+55,Ali Akbar Bahman,سید باقر کاظمی,labeled,m,NotGiven
+56,Ali Akbar Davar,"علي اكبر داور",labeled,m,Tehran
+57,Ali Akbar Dehkhoda,"میرزا علی‌اکبر خان قزوینی",labeled,m,Tehran
+58,Ali Akbar Javanfekr,"علي اكبر جوانفكر",labeled,m,Tehran
+59,Ali Akbar Mehrabian,"علي اكبر محرابيان",labeled,m,NotGiven
+60,Ali Akbar Mohtashamipur,"علي اكبر محتشمي",labeled,m,Tehran
+61,Ali Akbar Mousavi Khoeini,"علی اکبر موسوی خوئینی",labeled,m,NotGiven
+62,Ali Akbar Nategh Nouri,"علی‌اکبر ناطق نوری",labeled,m,Nur,_Iran
+63,Ali Akbar Salehi,"علی‌اکبر صالحی",labeled,m,Karbala
+64,Ali Akbar Velayati,"علی‌اکبر ولایتی",labeled,m,Tehran
+65,Ali Amini,"علی امینی",labeled,m,Tehran
+66,Ali Dashti,"علي آباد (دشتي)",labeled,m,NotGiven
+67,Ali Fallahian,"فلاحیان",labeled,m,Najafabad
+68,Ali Jannati,"علی جنتی",labeled,m,NotGiven
+69,Ali Khamenei,"ایه‌الله خامنه‌ای",labeled,m,Mashhad
+70,Ali Kordan,"علي كردان",labeled,m,NotGiven
+71,Ali Larijani,"علي املي لاريجاني",labeled,m,Najaf
+72,Ali Mansur,"منصور الملک",labeled,m,Kolkata
+73,Ali Meshkini,"ایت‌الله مشکینی",labeled,m,Meshginshahr
+74,Ali Motahari,"علي مطهري",labeled,m,NotGiven
+75,Ali Murad Davudi,"عليمراد داودي",labeled,m,NotGiven
+76,Ali Nikzad,"نیکزاد",labeled,m,Ardabil
+77,Ali Qoli Khan Bakhtiari,"عليقلي سرداراسعد",labeled,m,NotGiven
+78,Ali Rabiei,"علی ربیعی",labeled,m,Tehran
+79,Alireza Ali Ahmadi,"علیرضا علی‌احمدی",labeled,m,Isfahan
+80,Ali Reza Asgari,"علیرضا عسگری",labeled,m,Ardestan
+81,Ali Reza Khan Azod al Molk,"عضدالملك",labeled,m,NotGiven
+82,Alireza Marandi,"علي رضا مرندي",labeled,m,Isfahan
+83,Alireza Noori,"عليرضا نوري",labeled,m,NotGiven
+84,Alireza Nourizadeh,"علی‌رضا نوری‌زاده",labeled,m,NotGiven
+85,Alireza Rajaei,"علی رضا رجایی",labeled,m,Tehran
+86,Alireza Tahmasbi,"علیرضا طهماسبی",labeled,m,Shiraz
+87,Alireza Zakani,"عليرضا زاكاني",labeled,m,NotGiven
+88,Ali Shakouri Rad,"علی شکوری‌راد",labeled,m,NotGiven
+89,Ali Shamkhani,"شمخانی",labeled,m,Ahvaz
+90,Ali Shariati,"علی شریعتی",labeled,m,NotGiven
+91,Ali Shariatmadari,"علي شريعتمداري",labeled,m,Shiraz
+92,Ali Shayegan,"دكتر شايگان",labeled,m,NotGiven
+93,Ali Soheili,"علی سهیلی",labeled,m,Tabriz
+94,Ali Tayebnia,"علی طیب‌نیا",labeled,m,Isfahan
+95,Ali Younesi,"علي يونسي",labeled,m,Nahavand
+96,Al Muqanna,"مقنع",labeled,m,NotGiven
+97,Amanullah Jahanbani,"امان الله جهانباني",labeled,m,NotGiven
+98,Amir Abbas Hoveyda,"عباس هويدا",labeled,m,Tehran
+99,Amir Abdollah Tahmasebi,"عبدالله‌خان امیر طهماسبی",labeled,m,Tehran
+100,Amir Arshad,"امیر فرشاد ابراهیمی",labeled,m,Tehran
+101,Amir Kabir,"سد کرج",labeled,m,Arak,_Iran
+102,Amir Khosrow Afshar,امیرخسرو افشار قاسملو,labeled,m,NotGiven
+103,Amir Mohebbian,"امير محبيان",labeled,m,Tehran
+104,Amirreza Amirbakhtiar,"اميررضا اميربختيار",labeled,m,Ahvaz
+105,Amir Reza Khadem,"اميررضا خادم",labeled,m,NotGiven
+106,Ardeshir Ovanessian,"ارداشس اوانسیان",labeled,m,NotGiven
+107,Ardeshir Zahedi,"اردشير زاهدي",labeled,m,Tehran
+108,ar/حسن ‌أمیني,"حسن اميني",labeled,n,NotGiven
+109,ar/عيسى الفراهاني,"ميرزا بزرگ قائم مقام",labeled,n,NotGiven
+110,ar/ناصر سبحاني,"ناصر سبحاني/موقت",labeled,n,NotGiven
+111,Asadollah Alam,"امير اسدالله علم",labeled,m,Birjand
+112,Asadollah Bayat Zanjani,"ايت الله اسدالله بيات زنجاني",labeled,m,NotGiven
+113,Asadollah Lajevardi,"اسدالله لاجوردي",labeled,m,NotGiven
+114,Asghar Parsa,"اصغر پارسا",labeled,m,Khoy
+115,Ashraf Dehghani,"اشرف دهقانی",labeled,f,NotGiven
+116,Ashraf Pahlavi,"اشرف‌الملوک پهلوی",labeled,f,Tehran
+117,Ata'ollah Mohajerani,"سید عطاالله مهاجرانی",labeled,m,Arak,_Iran
+118,Azam Taleghani,"اعظم طالقاني",labeled,f,NotGiven
+119,Azizkhan Mokri,"سردار عزيز خان مكري",labeled,n,NotGiven
+120,Bahaedin Adab,"بهاءالدين ادب",labeled,m,NotGiven
+121,Bahram Mavaddat,"بهرام مودت",labeled,m,Tehran
+122,Bal'ami,"ابوعلی بلعمی",labeled,m,NotGiven
+123,Bāqer Khān,"سالار ملي",labeled,m,Tabriz
+124,Barmakids,"خاندان برامكه",labeled,m,NotGiven
+125,Behzad Nabavi,"بهزاد نبوي",labeled,m,Tehran
+126,Bijan Jazani,"ب̘ن جزنی",labeled,m,NotGiven
+127,Bijan Namdar Zangeneh,"بيژن زنگنه",labeled,m,Kermanshah
+128,Cabinet of Iran,"کابینه ایران",labeled,m,NotGiven
+129,Ciamak Moresadegh,"سیامک مره صدق",labeled,m,NotGiven
+130,Colonel Pessian,"پسیان تبریزی",labeled,m,NotGiven
+131,Dariush Forouhar,"داريوش فروهر",labeled,m,Isfahan
+132,Dariush Homayoon,"داريوش همايون",labeled,m,Tehran
+133,Davoud Ahmadinejad,"داوود احمدي نژاد",labeled,m,NotGiven
+134,Davoud Danesh Jafari,"داود دانش جعفری",labeled,m,Tehran
+135,Davoud Hermidas Bavand,"دکتر باوند",labeled,m,Tehran
+136,Davoud Soleymani,"داوود سلیمانی",labeled,m,NotGiven
+137,de/Ali Reza Khan Azod al Molk,"عضدالملك",labeled,n,NotGiven
+138,de/Hossein Pirnia,"مؤتمن الملك",labeled,n,NotGiven
+139,de/Mohammad Ali Khan Ala al Saltaneh,"میرزا محمدعلی خان علاءالسلطنه",labeled,n,NotGiven
+140,de/Seyed Mehdi Miraboutalebi,"سید مهدی میرابوطالبی",labeled,n,NotGiven
+141,Div Sultan Rumlu,"دیوسلطان",labeled,m,NotGiven
+142,Ebrahim Asgharzadeh,"ابراهیم اصغرزاده",labeled,m,Khash,_Iran
+143,Ebrahim Hakimi,"ابراهیم حکیم الممالک",labeled,m,Tabriz
+144,Ebrahim Khan Kalantar,شرف‌الدوله کلانتر,labeled,m,NotGiven
+145,Ebrahim Yazdi,"ابراهم يزدي",labeled,m,Qazvin
+146,Effat Shariati,"عفت شریعتی کوه بنانی",labeled,f,Mashhad
+147,Elaheh Koulaei,"الههٔ کولائی",labeled,f,NotGiven
+148,Elias Hazrati,"الیاس حضرتی",labeled,m,Hashtrud
+149,Emad Afroogh,"عمادالدين افروغ",labeled,m,Shiraz
+150,Esfandiar Rahim Mashaei,"اسفندیار رحیم‌مشایی",labeled,m,NotGiven
+151,Eshaq Jahangiri,"اسحاق جهانگيري",labeled,m,Sirjan
+152,Esmail Shooshtari,"محمداسماعیل شوشتری",labeled,m,Nishapur
+153,es/Seyyed Abdollah Behbahaní,"عبدالله بهبهاني",labeled,n,NotGiven
+154,Ezzatollah Sahabi,"عزت اللّه سحابي",labeled,m,Tehran
+155,Faezeh Hashemi,"فائزهٔ هاشمي رفسنجاني",labeled,f,Tehran
+156,Farah Pahlavi,"شاهزاده فرحناز پهلوي",labeled,f,Tehran
+157,Farhang Mehr,فرهنگ مهر,labeled,m,NotGiven
+158,Farrokhroo Parsa,"فَرُّخ‌رو پارسا",labeled,f,Qom
+159,Fatemeh Haghighatjoo,"فاطمهٔ حقیقت جو",labeled,f,NotGiven
+160,Fatemeh Karroubi,"فاطمهٔ کروبی",labeled,f,NotGiven
+161,Fathollah Khan Akbar,"فتح الله خان سپهدار رشتی",labeled,m,Rasht
+162,Fazlollah Zahedi,"فضل الله خان بصير ديوان",labeled,m,Hamedan
+163,fa/ابوالحسن خان مشیرالملک,"ابوالحسن خان مشیرالملک",labeled,n,NotGiven
+164,fa/ابوالفتح تاج‌الدین دارست شیرازی,"ابوالفتح تاج‌الدین دارست شیرازی",labeled,n,NotGiven
+165,fa/ابوالقاسم خان بختیار,"ابوالقاسم خان بختيار",labeled,n,NotGiven
+166,fa/ابوالقاسم قوام‌الدین درگزینی,"قوام‌الدین طغرائی",labeled,n,NotGiven
+167,fa/احمد دهقان (نماینده مجلس),"احمد دهقان (نماينده مجلس)",labeled,n,NotGiven
+168,fa/احمدرضوی,"احمدرضوي",labeled,n,NotGiven
+169,fa/اسدالله بادامچیان,"اسدالله بادامچيان",labeled,n,NotGiven
+170,fa/اسماعیل ططری,"اسماعیل ططری",labeled,n,NotGiven
+171,fa/الیاس نادران,"الیاس نادران",labeled,n,Shahrud,_Iran
+172,fa/الله‌یار صالح,"اللهیار صالح",labeled,n,Aran_va_Bidgol
+173,fa/امیرقلی امینی,"امیر قلی امینی",labeled,n,NotGiven
+174,fa/امیر مفخم بختیاری,"شجاع‌السلطان",labeled,n,NotGiven
+175,fa/توران فتح‌الله‌زاده,"توران فتح‌الله‌زاده",labeled,n,NotGiven
+176,fa/جعفر بهبهانی,"سيد جعفر بهبهاني",labeled,n,NotGiven
+177,fa/جلیل بزرگ‌مهر,"جلیل بزرگ مهر",labeled,n,NotGiven
+178,fa/جهانگیر حقشناس,"جهانگیر حقشناس",labeled,n,NotGiven
+179,fa/حاج باباخان اردبیلی,"حاج بابا اردبيلي",labeled,n,NotGiven
+180,fa/حجت‌الله ایوبی,"حجت الله ایوبی",labeled,n,NotGiven
+181,fa/حسن خرمشاهی,"محمد حسن خرمشاهي",labeled,n,NotGiven
+182,fa/حسین راضی,"حسین راضی",labeled,n,NotGiven
+183,fa/حسین شاه‌حسینی,"حسین شاه حسینی",labeled,n,Tehran
+184,fa/حسن علی صارمی کلالی,"حسن علی صارمی کلالی",labeled,n,NotGiven
+185,fa/حسن قشقاوی,"حسن قشقاوي",labeled,n,NotGiven
+186,fa/حسین مکی,"حسين مكي",labeled,n,NotGiven
+187,fa/حمیدرضا کاتوزیان,"حمیدرضا کاتوزیان",labeled,n,NotGiven
+188,fa/حمید زنگنه,"حمید زنگنه",labeled,n,NotGiven
+189,fa/خسرو سعیدی,"خسرو سعیدی",labeled,n,NotGiven
+190,fa/خسرو قشقایی,"خسرو خان قشقایی",labeled,n,NotGiven
+191,fa/رکن‌الدین صائن وزیر,"رکن‌الدین صائن وزیر",labeled,n,NotGiven
+192,fa/زکریا انصاری,"زکریا انصاری",labeled,n,NotGiven
+193,fa/سید ابراهیم رئیسی,"ابراهيم رئيسي",labeled,n,NotGiven
+194,fa/سید ابوالفضل زنجانی,"سيد ابوالفضل زنجاني",labeled,n,NotGiven
+195,fa/سید باقر کاظمی,"باقر كاظمي",labeled,n,NotGiven
+196,fa/سید حسین موسویان (جبهه ملی),"سيد حسين موسويان (جبهه ملي)",labeled,n,NotGiven
+197,fa/سید رضا فیروزآبادی,"آیت الله فیروزآبادی",labeled,n,NotGiven
+198,fa/سید طاهر طاهری,"سيد طاهر طاهري",labeled,n,NotGiven
+199,fa/سید عبدالباقی شیرازی,"سيد عبدالباقي شيرازي",labeled,n,NotGiven
+200,fa/سید علی‌رضا بهشتی شیرازی,"سيد عليرضا بهشتي شيرازي",labeled,n,NotGiven
+201,fa/سید محمد علی کشاورز صدر,"سيد محمد علي كشاورز صدر",labeled,n,NotGiven
+202,fa/سیروس آموزگار,"سيروس اموزگار",labeled,n,Tehran
+203,fa/سلطان محمد خان سردار اشجع,"سردار اشجع",labeled,n,NotGiven
+204,fa/شمس‌الدین امیرعلائی,"شمس الدین امیر علائی",labeled,n,Tehran
+205,fa/شمس‌الدین جوینی,"شمس الدين جويني",labeled,n,NotGiven
+206,fa/صفر لفوتی,"صفر لفوتي",labeled,n,Astaneh-ye_Ashrafiyeh
+207,fa/صفی قلی‌خان,"صفی قلی خان",labeled,n,NotGiven
+208,fa/عباس امیری‌فر,"عباس اميري فر",labeled,n,NotGiven
+209,fa/عباس خلیلی,"عباس خلیلی",labeled,n,NotGiven
+210,fa/عبدالرحمن برومند,"عبدالرحمان برومند",labeled,n,NotGiven
+211,fa/عبدالقدیر آزاد,"عبدالقدير آزاد",labeled,n,NotGiven
+212,fa/علی اردلان,"علی اردلان",labeled,n,NotGiven
+213,fa/علی‌اکبر اشعری,"علی‌اکبر اشعری",labeled,n,NotGiven
+214,fa/علی اکبر فرازی,"علي اكبر فرازي",labeled,n,NotGiven
+215,fa/علی‌اکبر نقی‌پور,"علي اكبر نقي پور",labeled,n,NotGiven
+216,fa/علی‌محمد ایزدی,"علی محمد ایزدی",labeled,n,Shiraz
+217,fa/علی‌محمد بشارتی جهرمی,"علی محمد بشارتی",labeled,n,Jahrom
+218,fa/علی مصطفوی,"دکتر علی مصطفوی",labeled,n,NotGiven
+219,fa/غلامحسین خان سالار محتشم,"غلامحسین خان سالار محتشم",labeled,n,NotGiven
+220,fa/فرامرز اسدی,"فرامرز اسدي",labeled,n,NotGiven
+221,fa/فیض‌الله عرب‌سرخی,"فیض الله عرب سرخی",labeled,n,NotGiven
+222,fa/فؤاد روحانی,"فواد روحانی",labeled,n,NotGiven
+223,fa/کاظم حسیبی,"كاظم حسيبي",labeled,n,NotGiven
+224,fa/کوروش زعیمی,"کوروش زعیمی",labeled,n,NotGiven
+225,fa/لیلی امیرارجمند,"لیلی امیرارجمند",labeled,n,NotGiven
+226,fa/محمد اسلامی,"محمد اسلامی",labeled,n,Tehran
+227,fa/محمد تقی خان بختیاری,"محمد تقي خان بختياري",labeled,n,NotGiven
+228,fa/محمدجواد فریدزاده,"محمدجواد فريدزاده",labeled,n,NotGiven
+229,fa/محمدحسن شمشیری,"محمدحسن شمشيري",labeled,n,NotGiven
+230,fa/محمدحسین قشقایی,"محمد حسين قشقايي",labeled,n,NotGiven
+231,fa/محمدرضا مخبر,"محمدرضا مخبر",labeled,n,NotGiven
+232,fa/محمد شریعتمداری,"محمد شریعتمداری",labeled,n,Tehran
+233,fa/محمدعلی خنجی,"محمدعلي خنجي",labeled,n,NotGiven
+234,fa/محمد فرهادی,"محمد فرهادي",labeled,n,Shahrud,_Iran
+235,fa/محمدکاظم سجادپور,"سید محمدکاظم سجادپور",labeled,n,NotGiven
+236,fa/محمد میرزا کاشف‌السلطنه,"محمد میرزا کاشف السلطنه",labeled,n,NotGiven
+237,fa/محمد منتظری,"محمد منتظري",labeled,n,NotGiven
+238,fa/محمد نخشب,"محمدنخشب",labeled,n,NotGiven
+239,fa/محمود سخایی,"سيد محمود سخايي",labeled,n,NotGiven
+240,fa/محمود نریمان,"محمود نريمان",labeled,n,Tehran
+241,fa/میرزا حسین اصفهانی,"میرزا شاه حسین اصفهانی",labeled,n,NotGiven
+242,fa/میرزا محمدعلی سیوندی,"میرزا محمدعلی سیوندی",labeled,n,NotGiven
+243,fa/مسعود حجازی,"مسعود حجازی",labeled,n,NotGiven
+244,fa/معین الدین مرجایی,"معین الدین مرجایی",labeled,n,NotGiven
+245,fa/منصور بیات‌زاده,"منصور بیات زاده",labeled,n,NotGiven
+246,fa/منصور روحانی,"منصور روحانی",labeled,n,NotGiven
+247,fa/منوچهر آگاه,"منوچهر آگاه",labeled,n,Rafsanjan
+248,fa/مهدی آذر,"مهدی آذر یزدی",labeled,n,Mashhad
+249,fa/مهدی کلهر,"مهدي كلهر",labeled,n,NotGiven
+250,fa/مهرداد پهلبد,"مهرداد پهلبد",labeled,n,NotGiven
+251,fa/نصرالله فاطمی,"نصرالله فاطمي",labeled,n,NotGiven
+252,fa/نصرت‌الله امینی,"نصرت الله امینی",labeled,n,Arak,_Iran
+253,fa/نظام‌الدین موحد,"نظام الدين موحد",labeled,n,NotGiven
+254,fa/هدایت‌الله متین دفتری,"هدایت الله متین دفتری",labeled,n,NotGiven
+255,fa/یوسف خان امیر مجاهد,"امير مجاهد",labeled,n,NotGiven
+256,Fereydoon Hoveyda,"فريدون هويدا",labeled,m,Damascus
+257,Feridoun Jam,"فريدون جم",labeled,n,NotGiven
+258,Firouz Mirza Nosrat ed Dowleh Farman Farmaian III,"فیروز نصرت الدوله",labeled,n,Tehran
+259,Firouz Nosrat ed Dowleh III,"فیروز نصرت الدوله",labeled,m,Tehran
+260,fr/Mirza Riza Khan,"رضا ارفع‌الدوله",labeled,n,NotGiven
+261,Ghaem Magham Farahani,"قائم مقام فراهانی",labeled,m,Arak,_Iran
+262,Ghasem Sholeh Saadi,"قاسم شعله سعدی",labeled,n,NotGiven
+263,Gholam Ali Haddad Adel,"غلامعلی حداد عادل در انتخابات ریاست‌جمهوری ایران (1392)",labeled,m,Tehran
+264,Gholam Ali Oveisi,"غلام علي اويسي",labeled,m,Qom
+265,Gholam Hossein Elham,"غلامحسين الهام",labeled,n,Andimeshk
+266,Gholamhossein Karbaschi,"غلامحسين كرباسچي",labeled,m,Tehran
+267,Gholam Hossein Mohseni Eje'i,"غلامحسين اژه اي",labeled,m,Isfahan
+268,Gholam Hossein Nozari,"غلامحسين نوذري",labeled,m,Kazerun
+269,Gholam Hossein Sadighi,"غلامحسين صديقي",labeled,m,Tehran
+270,Gholam Reza Aghazadeh,"غلامرضا اقازاده",labeled,m,Khoy
+271,Gholam Reza Azhari,"ازهاري",labeled,m,Shiraz
+272,Gholamreza Nikpey,"غلامرضا نيك پي",labeled,m,Isfahan
+273,Gholamreza Takhti,"تختي",labeled,m,NotGiven
+274,Ghorbanali Dorri Najafabadi,"قربانعلی دری نجف ابادی",labeled,m,Rey,_Iran
+275,Habib Elghanian,"القانیان",labeled,m,NotGiven
+276,Habibollah Asgaroladi,"حبيب الله عسكراولادي",labeled,m,Tehran
+277,Habibollah Bitaraf,"حبیب الله بیطرف",labeled,m,NotGiven
+278,Habibollah Peyman,"حبیب‌الله پیمان",labeled,m,NotGiven
+279,Hadi Khamenei,"سيد هادي خامنهٔ اي",labeled,m,NotGiven
+280,Haj Ali Razmara,"حاجیعلی رزم آرا",labeled,m,Tehran
+281,Haji Baba Sheikh,"حاجی باباشیخ",labeled,m,NotGiven
+282,Haji Washington,"حاجي واشنگتن",labeled,m,NotGiven
+283,Hajj Mirza Aghasi,"حاجي ميرزا آقاسي",labeled,m,Maku,_Iran
+284,Hamid Baqai,"حميدرضا بقايي",labeled,m,NotGiven
+285,Hamid Behbahani,"حمید بهبهانی",labeled,m,Behbahan
+286,Hamid Chitchian,"حمید چیت‌چیان",labeled,m,Tabriz
+287,Hamid Mowlana,"سیدحمید مولانا",labeled,m,NotGiven
+288,Hamid Reza Assefi,"اصفي",labeled,m,NotGiven
+289,Hamid Reza Haji Babaee,"حاجی‌بابایی",labeled,m,Hamedan
+290,Hamid Sajjadi,"حميد سجادي",labeled,m,NotGiven
+291,Hasan Arfa,"حسن ارفع",labeled,m,NotGiven
+292,Hasan Arsanjani,"حسن ارسنجاني",labeled,m,Tehran
+293,Hasan Nazih,"حسن نزيه",labeled,m,NotGiven
+294,Hashemi Rafsanjani,"حجت الاسلام هاشمی رفسنجانی",labeled,m,Tehran
+295,Hashem Sabbaghian,"هاشم صباغيان",labeled,m,Tehran
+296,Hassan Abbasi,"حسن عباسي (تحليل گر سياسي)",labeled,m,NotGiven
+297,Hassan Ali Mansur,"حسن علی منصور",labeled,m,Tehran
+298,Hassan Ayat,"حسن ایت",labeled,m,NotGiven
+299,Hassan Habibi,"حسن حبيبي",labeled,m,Tehran
+300,Hassan Khomeini,"سيدحسن خميني",labeled,m,Qom
+301,Hassan Modarres,"ايت الله مدرس",labeled,m,NotGiven
+302,Hassan Nayebagha,"حسن نايب اقا",labeled,m,Tehran
+303,Hassan Pakravan,"حسن پاکروان",labeled,m,Tehran
+304,Hassan Pirnia,"حسن پيرنيا",labeled,m,Tabriz
+305,Hassan Rahimpour Azghadi,"حسن رحيم پور",labeled,m,NotGiven
+306,Hassan Rouhani,"حسن فریدون",labeled,m,Sorkheh
+307,Hassan Sobhani,"حسن سبحانی",labeled,m,Damghan
+308,Hassan Taqizadeh,"تقی‌زاده",labeled,m,Tabriz
+309,Hassan Zia Zarifi,"حسن ضیاظریفی",labeled,m,NotGiven
+310,Haydar Khan e Amo oghli,"حیدرخان عمواوغلی",labeled,m,NotGiven
+311,Heydar Moslehi,"حيدر مصلحي",labeled,m,Shahreza
+312,Hossein Ala',"حسين علاء",labeled,m,Tehran
+313,Hossein Dehghan,"حسين دهقان",labeled,m,Dehaqan
+314,Hossein Fardoust,"ارتشبد فردوست",labeled,m,NotGiven
+315,Hossein Fatemi,"سیدحسین فاطمی",labeled,m,Nain,_Iran
+316,Hossein Kamali,"حسین کمالی",labeled,m,NotGiven
+317,Hossein Saffar Harandi,"صفار هرندي",labeled,m,Gorgan
+318,Hushang Ansary,"هوشنگ انصاري",labeled,m,Ahvaz
+319,Hussein Ali Montazeri,"آیت آللهٔ حسینعلی منتظری",labeled,m,Najafabad
+320,Imam Quli Khan,"امامقلي خان",labeled,m,NotGiven
+321,Iradj Fazel,"ايرج فاضل",labeled,m,Ardestan
+322,Iraj Eskandari,"ايرج اسكندري",labeled,m,Tehran
+323,Ismail Mumtaz,"اسماعيل ممتاز",labeled,m,NotGiven
+324,Ja'far Pishevari,"سيد جعفر پيشهٔ وري",labeled,m,Khalkhal,_Ardabil
+325,Jafar Sharif Emami,"شریف امامی",labeled,m,Tehran
+326,Jafar Towfighi,"جعفر توفيقي داريان",labeled,m,NotGiven
+327,Jahangir Amuzegar,"جهانگير آموزگار",labeled,m,NotGiven
+328,Jalaleddin Farsi,"جلال الدين فارس",labeled,m,NotGiven
+329,Jalal Jalalizadeh,"جلال جلالی‌زاده",labeled,m,NotGiven
+330,Jamal Karimi Rad,"جمال كريمي راد",labeled,m,Qazvin
+331,Jamileh Kadivar,"جمیله کدیور",labeled,f,Fasa
+332,Jamshid Amouzegar,"جمشید اموزگار",labeled,m,Tehran
+333,Jamshid Bahman Jamshidian,"جمشید جمشیدیان",labeled,n,NotGiven
+334,Javad Arianmanesh,"جواد آرین منش",labeled,m,NotGiven
+335,Javad Etaat,"جواد اطاعت",labeled,n,NotGiven
+336,Kamal Habibollahi,"کمال الدین میرحبیب اللهی",labeled,m,NotGiven
+337,Kamal Kharazi,"كمال خرازي",labeled,m,Tehran
+338,Kamaloddin Jenab,"کمال الدین جناب",labeled,m,NotGiven
+339,Kamran Bagheri Lankarani,"کامران باقری لنکرانی",labeled,m,Tehran
+340,Kamran Daneshjoo,"كامران دانشجو",labeled,m,Damghan
+341,Karim Sanjabi,"كريم سنجابي",labeled,m,Kermanshah
+342,Kazem Rajavi,"كاظم رجوي",labeled,m,Tabas
+343,Kazem Sami,"دکتر سامی",labeled,m,Mashhad
+344,Kazem Seddiqi,"حجت الاسلام صديقي",labeled,m,NotGiven
+345,Keikhosrow Shahrokh,"کیخسرو شاهرخ",labeled,m,NotGiven
+346,Keramat Daneshian,"كرامت دانشيان",labeled,m,NotGiven
+347,Khadijeh Saqafi,"خديجهٔ ثقفي",labeled,f,NotGiven
+348,Khalil maleki,"خليل ملكي",labeled,m,NotGiven
+349,Khosro Roozbeh,"خسرو روزبه",labeled,m,NotGiven
+350,Khosrow Golsorkhi,"خسرو گل سرخي",labeled,m,Rasht
+351,Kuchik Khan,"سردار جنگل",labeled,m,Rasht
+352,Levon Davidian,"لون داويديان",labeled,m,NotGiven
+353,Mahmoud Ahmadinejad,"احمدی‌نژاد",labeled,m,Aradan,_Iran
+354,Mahmoud Alavi,"محمود علوي",labeled,m,Lamerd
+355,Mahmoud Hashemi Shahroudi,"محمود هاشمي شاهرودي",labeled,m,Najaf
+356,Mahmoud Hessaby,"دکتر محمود حسابی",labeled,m,NotGiven
+357,Mahmoud Jam,"محمود جم",labeled,m,Tabriz
+358,Mahmoud Taleghani,"محمود علايي طالقاني",labeled,m,NotGiven
+359,Mahmudali Chehregani,"چهرگاني",labeled,m,NotGiven
+360,Mahmud Mahmud,محمود طرزی,labeled,m,NotGiven
+361,Majead Ansari,"مجید انصاری",labeled,m,Kerman
+362,Majid Namjoo,"مجید نامجو مطلق",labeled,m,Kerman
+363,Majid Sharif Vaghefi,"مجید شریف واقفی",labeled,m,NotGiven
+364,Manouchehr Eghbal,"منوچهر اقبال",labeled,m,Mashhad
+365,Manouchehr Mottaki,"متکی",labeled,m,Bandar-e_Gaz
+366,Mansoor Hekmat,"منصور حکمت",labeled,m,NotGiven
+367,Manuchehr Eliasi,"منوچهر الیاسی",labeled,n,NotGiven
+368,Manutchehr Salimi,"منوچهر سليمي",labeled,m,NotGiven
+369,Maryam Farman Farmaian,"مریم فرمانفرمائیان",labeled,f,NotGiven
+370,Maryam Rajavi,"مریم رجوی",labeled,f,Tehran
+371,Marzieh Hadidchi,"مرضیه دباغ",labeled,f,NotGiven
+372,Marzieh Vahid Dastjerdi,"مرضیهٔ وحید دستجردی",labeled,f,Tehran
+373,Masoud Mir Kazemi,"مسعود میر کاظمی",labeled,m,Tehran
+374,Masoud Pezeshkian,"مسعود پزشكيان",labeled,m,Tabriz
+375,Masoumeh Ebtekar,"خواهر مري",labeled,f,Tehran
+376,Mass'oud Mirza Zell e Soltan,"ظل‌السلطان",labeled,m,NotGiven
+377,Massoud Rajavi,"مسعود رجوی",labeled,m,Tabas
+378,Mehdi Bazargan,"مهدی بازرگان",labeled,m,Tehran
+379,Mehdi Ghazanfari,"مهدی غضنفری",labeled,n,Aligudarz
+380,Mehdi Hashemi,"مهدی هاشمی قرمزی",labeled,m,Tehran
+381,Mehdi Karroubi,"كروبي",labeled,m,Aligudarz
+382,Mehdi Qoli Hedayat,"ميرزا مهدي قلي خان مخبرالسلطنه",labeled,m,Tehran
+383,Mina Ahadi,"مينا احدي",labeled,f,Abhar
+384,Mir Hossein Mousavi,"ميرحسين موسوي در انتخابات رياست جمهوري ايران (۱۳۸۸)",labeled,m,Khamaneh
+385,Mirza Abolhassan Khan Ilchi,"ابوالحسن شیرازی",labeled,m,NotGiven
+386,Mirza Ali Asghar Khan Amin al Sultan,"ميرزا علي اصغر امين السلطان",labeled,n,Tehran
+387,Mirza Hosein Khan Moshir od Dowleh,"ميرزا حسين خان مشيرالدوله",labeled,m,NotGiven
+388,Mirza Mehdi Khan Astarabadi,"میرزا مهدی خان منشی استرآبادی",labeled,m,NotGiven
+389,Mirza Nasrullah Khan,"نصرالله مشیرالدوله",labeled,m,NotGiven
+390,Mohammad Abbasi,"محمدجلال عباسی شوازی",labeled,m,NotGiven
+391,Mohammad Ali Abtahi,"محمد علی ابطحی",labeled,m,Mashhad
+392,Mohammad Ali Foroughi,"محمدعلی فروغی",labeled,m,Tehran
+393,Mohammad Ali Jafari,"محمد علي جعفري",labeled,m,Yazd
+394,Mohammad Ali Najafi,"محمدعلی نجفی (معاون رییس جمهور)",labeled,m,Tehran
+395,Mohammad Ali Rajai,"رجایی",labeled,m,Qazvin
+396,Mohammad Ali Ramin,"محمد علي رامين",labeled,m,NotGiven
+397,Mohammad Bagher Ghalibaf,"محمد باقر قالیباف",labeled,m,Torqabeh
+398,Mohammad Bagher Kharazi,"محمد باقر خرازی",labeled,m,NotGiven
+399,Mohammad Bagher Nobakht,"محمدباقر نوبخت حقيقي",labeled,m,Rasht
+400,Mohammad Beheshti,"شهيد دكتر بهشتي",labeled,m,Isfahan
+401,Mohammad Farrokhi Yazdi,"محمد فرخي يزدي",labeled,m,NotGiven
+402,Mohammad Forouzandeh,محمد فروزنده,labeled,m,NotGiven
+403,Mohammad Gharazi,"مهندس غرضي",labeled,m,Isfahan
+404,Mohammad Hasan Khan Qajar,"محمدحسن خان قاجار",labeled,m,NotGiven
+405,Mohammad Hossein Adeli,"محمدحسين عادلي",labeled,m,Ahvaz
+406,Mohammad Javad Bahonar,"آيت الله دكتر باهنر",labeled,m,Kerman
+407,Mohammad Javad Larijani,"محمد جواد لاريجاني",labeled,m,Najaf
+408,Mohammad Javad Tondguyan,محمدجواد تندگویان,labeled,m,NotGiven
+409,Mohammad Javad Zarif,"جواد ظريف",labeled,m,Tehran
+410,Mohammad Kazem Khorasani,"اخوند ملا كاظم خراساني",labeled,m,NotGiven
+411,Mohammad Kazem Shariatmadari,"ايت الله العظمي شريعتمداري",labeled,m,NotGiven
+412,Mohammad Khan Qajar,"محمدحسن خان قاجار",labeled,m,Gorgan
+413,Mohammad Khatami,"سید محمدخاتمی",labeled,m,Ardakan
+414,Mohammad Khazaee,عرب‌های ایران,labeled,m,Kashmar
+415,Mohammad Khiabani,"محمد خياباني",labeled,m,NotGiven
+416,Mohammad Khoshchehreh,"محمد خوش چهره",labeled,m,Tehran
+417,Mohammad Marandi,"سید محمد مرندی",labeled,m,NotGiven
+418,Mohammad Mehdi Zahedi,"محمد‌مهدی زاهدی",labeled,m,Kerman
+419,Mohammad Mofatteh,"محمد مفتح",labeled,m,NotGiven
+420,Mohammad Mosaddegh,"محمد مصدق السلطنه",labeled,m,Tehran
+421,Mohammad Mousavi Khoeiniha,"موسوی خویینی ها",labeled,m,Qazvin
+422,Mohammad Nahavandian,"نهاوندیان",labeled,m,Tehran
+423,Mohammad Reyshahri,"ری شهری",labeled,m,Rey,_Iran
+424,Mohammad Reza Ameli Tehrani,"محمد رضا عاملی تهرانی",labeled,m,Tehran
+425,Mohammad Reza Aref,"محمدرضا عارف در انتخابات ریاست جمهوری ایران (1392)",labeled,m,Yazd
+426,Mohammad Reza Bahonar,"محمد رضا باهنر",labeled,m,Kerman
+427,Mohammad Reza Eskandari,"محمدرضا اسكندري",labeled,n,Ahvaz
+428,Mohammad Reza Khatami,"محمدرضا خاتمي",labeled,m,Ardakan
+429,Mohammad Reza Mahdavi Kani,"محمد رضا مهدوي كني",labeled,m,Tehran
+430,Mohammad Reza Mirtajodini,"ميرتاج الديني",labeled,m,Tabriz
+431,Mohammadreza Nematzadeh,"محمدرضا نعمت‌زاده",labeled,m,Tabriz
+432,Mohammad Reza Pahlavi,"پهلوي دوم",labeled,m,Tehran
+433,Mohammad Reza Rahimi,"محمد رضا رحیمی",labeled,m,Serishabad
+434,Mohammad Sa'ed,"محمد ساعد مراغه ای",labeled,m,Maragheh
+435,Mohammad Saeedikia,"محمد سعیدی کیا",labeled,m,Isfahan
+436,Mohammad Salimi,"محمد سلیمی",labeled,m,NotGiven
+437,Mohammad Shariatmadari,"ايت الله العظمي شريعتمداري",labeled,m,NotGiven
+438,Mohammad Soleimani,"محمد سلیمانی",labeled,m,Khesht
+439,Mohammad Taqi Bahar,"ملک الشعراء بهار",labeled,m,Mashhad
+440,Mohammad Taqi Mesbah Yazdi,"مصباح یزدی",labeled,m,Yazd
+441,Mohammad Tavasoli,"محمد توسلي",labeled,m,NotGiven
+442,Mohammad Va'ez Abaee Khorasani,"عبایی خراسانی",labeled,m,NotGiven
+443,Mohammad Vali Khan Tonekaboni,"سپهدار اعظم تنکابنی",labeled,m,Tonekabon
+444,Mohammad Yeganeh,"محمد يگانه",labeled,m,NotGiven
+445,Mohammed Kazem Yazdi,"سيد محمدكاظم طباطبايي يزدي",labeled,m,NotGiven
+446,Mohammed Sharif m,NotGiven
+447,kzadeh,"شریف ملک زاده",labeled,m,Shiraz
+448,Mohsen Aminzadeh,"محسن امین‌زاده",labeled,m,NotGiven
+449,Mohsen Armin,"محسن آرمين",labeled,m,NotGiven
+450,Mohsen Hashemi,"محسن هاشمی رفسنجانی",labeled,m,Kerman
+451,Mohsen Hashemi Rafsanjani,"محسن هاشمی رفسنجانی",labeled,n,Kerman
+452,Mohsen Kadivar,"محسن كديور",labeled,m,NotGiven
+453,Mohsen Mirdamadi,"محسن ميردامادي",labeled,m,Najafabad
+454,Mohsen Nourbakhsh,"سيد محسن نوربخش",labeled,m,Isfahan
+455,Mohsen Pezeshkpour,"محسن پزشكپور",labeled,m,Tehran
+456,Mohsen Rafighdoost,"محسن رفيق دوست",labeled,m,Tehran
+457,Mohsen Rais,"ورزشگاه علي محسن",labeled,m,NotGiven
+458,Mohsen Rezaee,"سبزوار رضایی",labeled,m,Masjed_Soleyman
+459,Mohsen Sadr,"صدرالاشراف",labeled,m,Mahallat
+460,Mohsen Safaei Farahani,"صفائي فراهاني",labeled,m,NotGiven
+461,Mojtaba Khamenei,"مجتبی خامنه‌ای",labeled,m,NotGiven
+462,Mojtaba Vahedi,"مجتبی واحدی",labeled,m,NotGiven
+463,Morteza Agha Tehrani,"آقاتهرانی",labeled,m,Tiran,_Iran
+464,Morteza Alviri,"مرتضی الویری",labeled,m,Tehran
+465,Morteza Bakhtiari,"علي مرتضي صمصام بختياري",labeled,m,NotGiven
+466,Morteza Gholi Khan Hedayat,"مرتضی‌قلی‌خان هدایت",labeled,m,Tehran
+467,Morteza Mohammadkhan,"مرتضي محمدخان",labeled,m,Tehran
+468,Morteza Motahhari,"آيت الله مطهري",labeled,m,Fariman
+469,Morteza Qoli Bayat,"سهام السلطان بيات",labeled,m,Arak,_Iran
+470,Mostafa Chamran,"مصطفی چمران ساوجی",labeled,m,Tehran
+471,Mostafa Kavakebian,"مصطفی کواکبیان",labeled,m,NotGiven
+472,Mostafa Moeen,"مصطفی معین",labeled,m,Najafabad
+473,Mostafa Mohammad Najjar,"محمد مصطفي نجار",labeled,m,Tehran
+474,Mostafa Pourmohammadi,"مصطفي پورمحمدي",labeled,m,Qom
+475,Mostafa Tajzadeh,"مصطفي تاج زاده",labeled,m,Tehran
+476,Mostowfi ol Mamalek,"حسن مستوفی‌الممالک",labeled,m,Tehran
+477,Mozzafar Baghai,"مظفر بقایی کرمانی",labeled,m,Kerman
+478,Nader Jahanbani,"نادر جهانبانی",labeled,m,NotGiven
+479,Nader Shah,"نادراباد (هرسین)",labeled,m,Qaem_Shahr
+480,Naser al Din Shah Qajar,"ناصرالدينشاه",labeled,m,Tabriz
+481,Nasr al Din (Yunnan),حمله مغول به برمه,labeled,m,NotGiven
+482,Nasrollah Entezam,"نصرالله انتظام وزيري",labeled,m,Tehran
+483,Nasrollah Jahangard,"نصرالله جهانگرد",labeled,m,Tehran
+484,Nasser Hejazi,"ناصر حجازی",labeled,m,Tehran
+485,Nasser Moghadam,"ناصر مقدم",labeled,m,Tehran
+486,Navvab Safavi,"مجتبي نواب صفوي",labeled,m,NotGiven
+487,Nematollah Nassiri,"سرلشكر نصيري",labeled,m,Semnan,_Iran
+488,Nizam al Mulk,"نظام الملک طوسی",labeled,m,Tus,_Iran
+489,Noureddin Kianouri,"نورالدین کیانوری",labeled,m,NotGiven
+490,Parvaneh Eskandari Forouhar,"پروانهٔ اسکندری",labeled,f,Tehran
+491,Parviz Davoodi,"پرويز داودي",labeled,m,Tehran
+492,Parviz Fattah,"سید پرویز فتاح",labeled,m,Urmia
+493,Parviz Kazemi,"پرويز كاظمي",labeled,m,Tehran
+494,Parviz Varjavand,"پرویز ورجاوند",labeled,m,Tehran
+495,Patrick Ali Pahlavi,"علي پاتريك پهلوي",labeled,m,NotGiven
+496,Pirouz Davani,"پیروز دوانی",labeled,m,NotGiven
+497,Piruz Dilanchi,"پیروز دیلنچی",labeled,m,Tehran
+498,Qazi Muhammad,"قاضي محمد",labeled,m,Mahabad
+499,Rafat Bayat,"رفعت بیات",labeled,f,Zanjan,_Iran
+500,Rahman Dadman,"رحمان دادمان",labeled,m,Ardabil
+501,Rashid al Din Hamadani,"رشید الدین فضل اللهٔ الهٔمذانی",labeled,m,NotGiven
+502,Rasoul Khadem,"رسول خادم ازغدي",labeled,m,Mashhad
+503,Reza malekzadeh,"رضا ملك زاده",labeled,m,NotGiven
+504,Reza Pahlavi,"رضا پهلوي (پسر)",labeled,m,Tehran
+505,Rezā Shāh,"رضا خان پهلوي",labeled,m,Alasht
+506,Reza Sheykholeslam,"عبدالرضا شيخ الاسلامي",labeled,m,Chalus,_Iran
+507,Reza Taghipour,"رضا تقی‌پور انواری",labeled,m,Maragheh
+508,Reza Zanjani,"سید رضا زنجانی",labeled,m,NotGiven
+509,Rostam Ghasemi,"رستم قاسمي",labeled,m,NotGiven
+510,Ruhollah Khatami,"روح‌الله خاتمی",labeled,m,NotGiven
+511,Ruhollah Khomeini,"روح‌الله خميني",labeled,m,Khomeyn
+512,Saad ad Daula,"نجفقلی بختیاری",labeled,m,NotGiven
+513,Sadegh Ghotbzadeh,"صادق قطب زاده",labeled,m,Isfahan
+514,Sadegh Khalkhali,"محمد صادق خلخالی",labeled,m,Khalkhal,_Ardabil
+515,Sadegh Mahsouli,"محمدصادق محصولي",labeled,m,Urmia
+516,Sadegh Sharafkandi,"دكتر شرفكندي",labeled,m,NotGiven
+517,Sadegh Tabatabai,"صادق طباطبايي",labeled,m,Qom
+518,Sadeq Ganji,"صادق گنجی",labeled,n,NotGiven
+519,Sadeq Larijani,"صادق لاریجانی",labeled,m,Najaf
+520,Saeed Emami,"سعيدامامي",labeled,m,NotGiven
+521,Saeed Hajjarian,"حجاريان",labeled,m,Shiraz
+522,Saeed Jalili,"سعيد جليلي",labeled,m,Mashhad
+523,Saeed Shirkavand,"سعید شیرکوند",labeled,m,NotGiven
+524,Safdar Hosseini,"سید صفدر حسینی",labeled,m,NotGiven
+525,Sattar Khan,"سردار ملي",labeled,m,Turkestan
+526,Sayyid Ajjal Shams al Din Omar,"سيد اجل شمس الدين",labeled,m,NotGiven
+527,Sayyid Hossein Ardabili,"سیدحسین اردبیلی",labeled,m,NotGiven
+528,Shahriar Shafiq,"شهریار شفیق",labeled,m,NotGiven
+529,Shamseddin Hosseini,"سید شمس‌الدین حسینی",labeled,m,Tonekabon
+530,Shapour Bakhtiar,"دکتر شاپور بختیار",labeled,m,Izeh
+531,Sheikh Ali khan Zangeneh,"شیخ علی خان زنگنه",labeled,m,NotGiven
+532,Sheikh Fazlollah Noori,"شيخ فضل الله",labeled,m,NotGiven
+533,Shirin Ebadi,"عبادي",labeled,f,Hamedan
+534,Shivan Qaderi,"شوانه قادري",labeled,m,NotGiven
+535,Simko Shikak,"اسماعیل آغا سمکو",labeled,m,NotGiven
+536,Tahmasb Mazaheri,"طهماسب مظاهری",labeled,m,Tehran
+537,Taqi Arani,"دكتر اراني",labeled,m,NotGiven
+538,Teymur Bakhtiar,"سپهبد تيمور بختيار",labeled,m,Shahr-e_Kord
+539,Vosough od Dowleh,"حسن وثوق",labeled,m,Tehran
+540,Yadollah Sahabi,"دکتر یدالله سحابی",labeled,m,Tehran
+541,Yahya Ale Eshaq,"يحيي ال اسحاق",labeled,m,Qom
+542,Yahya Rahim Safavi,"سیدیحیی صفوی",labeled,m,Isfahan
+543,Yeprem Khan,"یپرم خان ارمنی",labeled,m,NotGiven
+544,Yousef Saanei,"ايت الله يوسف صانعي",labeled,m,NotGiven
+545,Zia'eddin Tabatabaee,"سیدضیاالدین طباطبائی",labeled,m,Shiraz
+546,ar/إبراهيم مردوخي,"إبراهيم مردوخي",labeled,n,NotGiven
+547,ar/أمير عباس هويدا,"أمير عباس هويدا",labeled,n,NotGiven
+548,ar/سياماك ميرسيدي,"سياماك ميرسيدي",labeled,n,NotGiven
+549,ar/عبد الرحمن بيراني,"عبد الرحمن بيراني",labeled,n,NotGiven
+550,ar/محمود ويسي,"محمود ويسي",labeled,n,NotGiven
+551,Abdol Ali Badrei,"عبدالعلی بدری",translated,m,NotGiven
+552,Abdolmajid Pirzadeh Jahromi,"عبدالمجید پیرزاده جهرمی",translated,m,NotGiven
+553,Abolghasem Khazali,"ابوالقاسم خزعلی",translated,m,NotGiven
+554,Abolhassan Diba,"ابوالحسن دیبا",translated,m,NotGiven
+555,Ahmad Bahar,"احمد بهار",translated,m,NotGiven
+556,Ahmad Hussein Adl,"احمد حسین عادل",translated,m,NotGiven
+557,Ahmad Motamedi,"احمد معتمدی",translated,m,NotGiven
+558,Ahmad Sadegh Bonab,"احمد صادق بناب",translated,m,NotGiven
+559,Ahmad Salamatian,"احمد سلیمانتیان",translated,m,NotGiven
+560,Ali Abbaspoor Tehrani Fard,"علی عباسپور تهرانی فرد",translated,m,NotGiven
+561,Ali Aghazadeh Dafsari,"علی آقازاده دافساری",translated,m,NotGiven
+562,Ali Akbar Moinfar,"علی اکبر موینفار",translated,m,NotGiven
+563,Ali Akbar Siassi,"علی اکبر سیسی",translated,m,NotGiven
+564,Ali Akbar Zargham,"علی اکبر زرقام",translated,m,NotGiven
+565,Ali Khatami,"علی خاتمی",translated,m,Arak,_Iran
+566,Ali Mohammad Besharati,"علی محمد بشارتاتی",translated,m,NotGiven
+567,Alireza Sheikhattar,"علیرضا شیخترار",translated,m,NotGiven
+568,Amir Hossein Rabii,"امیر حسین ربیعی",translated,m,NotGiven
+569,Amir Nosrat'ollah Balakhanlou,"امیر نصرت الله باخانلو",translated,m,Tehran
+570,Asadollah Abbasi,"اسدالله عباسی",translated,m,NotGiven
+571,Azadeh Shafiq,"آزاده شفیق",translated,f,NotGiven
+572,de/Abolqasem Naser al Molk,"ابوالقاسم ناصر الملک",translated,n,NotGiven
+573,de/Alinaghi Alikhani,"آلینقی القیانی",translated,n,NotGiven
+574,de/Ebrahim Alam,"ابراهیم الام",translated,n,NotGiven
+575,de/Mohammed Hossein Saif Qazi,"محمد حسین سیف قاضی",translated,n,NotGiven
+576,de/Najaf Qoli Khan Samsam al Saltaneh,"نجف قلی خان Samsam al Saltaneh",translated,n,NotGiven
+577,de/Parviz Nikkhah,"پرویز نیکخواه",translated,n,NotGiven
+578,de/Zabihollah Bakhshi,"زبیح الله بهخشی",translated,n,NotGiven
+579,Ebrahim Azizi,"ابراهیم عزیزی",translated,m,NotGiven
+580,Elham Aminzadeh,"الهام امینزاده",translated,f,NotGiven
+581,es/Mehranguiz Manoutchehrian,"من / مهرانگیز منوتیچریان",translated,n,NotGiven
+582,Fereidon Hasanvand,"فریدون حسنوند",translated,m,NotGiven
+583,Fereydoun Djam,"فریدون دم",translated,m,NotGiven
+584,fr/Abdol Hossein Hamzavi,"عبدالحسین حمزوی",translated,n,NotGiven
+585,fr/Abdollah Behbahani,"عبدالله بهبهانی",translated,n,NotGiven
+586,fr/Abdol Rahman Faramarzi,"عبدالرحمان فرامرزی",translated,n,NotGiven
+587,fr/Fariba Hachtroudi,"فريبا هچرتودي",translated,n,NotGiven
+588,fr/Farrokh Rou Parsa,"فرخ رو پارسا",translated,n,NotGiven
+589,fr/Mehdi Gholi Hedayat,"مهدی قلی هدایت",translated,n,NotGiven
+590,fr/Reza Sardar Fakher Hekmat,"رضا سردار فخره حکمت",translated,n,NotGiven
+591,fr/Taher Movassaghian,"taher muvasaghian",translated,n,NotGiven
+592,fr/Yishmael Movassaghian,"ییشماال موثققیان",translated,n,NotGiven
+593,Ghiyathu'd Din ibn Rashid'ud Din,"غیاثوود دین ابن رشید دین",translated,m,NotGiven
+594,Gholam Hossein Jahanshahi,"غلامحسین جهانشاهی",translated,m,NotGiven
+595,Gholāmḥusayn Ṣefātī Dezfūlī,"غلامحسین رسوات دزفولی",translated,m,NotGiven
+596,Hamid Reza Chitgar,"حامد رضا چیتگر",translated,m,NotGiven
+597,Hamid Reza Katouzian,"حمید رضا کاتوزیان",translated,m,NotGiven
+598,Hassan Rahnavardi,"حسن رهنوردی",translated,m,NotGiven
+599,Hassan Shariatmadari,"حسن شریعتمداری",translated,m,NotGiven
+600,Heidar Arfaa,"حیدر آرفا",translated,m,NotGiven
+601,Hekmat E Shirazi,"حکمت الی شیرازی",translated,m,NotGiven
+602,Homa Arjomand,"هومه ارجمند",translated,f,NotGiven
+603,Hosein Dadgar,"حسین دادگر",translated,m,NotGiven
+604,Hossein Ghods Nakhai,"حسین قدس نقی",translated,m,NotGiven
+605,Hossein Hashemi,"حسین هاشمی",translated,m,NotGiven
+606,Hossein Marashi,"حسین مرعشی",translated,m,Rafsanjan
+607,Hossein Namazi,"حسین نعمتی",translated,m,NotGiven
+608,Hossein Navab,"حسین نواب",translated,m,NotGiven
+609,Hushang Hamidi,"حسام حمیدی",translated,m,NotGiven
+610,Hussein Sheikholeslam,"حسین شیخ الاسلام",translated,m,NotGiven
+611,Isa Kalantari,"اسما کلانتری",translated,m,NotGiven
+612,Issa Kalantari,"عیسا کلانتری",translated,m,NotGiven
+613,Jaime Ornelas Camacho,"Jaime Ornelas Camacho",translated,m,NotGiven
+614,Javad Shahrestani,"جواد شهرستانی",translated,m,NotGiven
+615,Kamal Daneshyar,"کمال دانشیار",translated,n,NotGiven
+616,Karim Khodapanahi,"کریم خداپناهی",translated,m,NotGiven
+617,Kasra Nikzad,"کسرا نیکزاد",translated,m,NotGiven
+618,Kazem Jalali,"کاظم جلالی",translated,m,NotGiven
+619,Kazem Vaziri Hamaneh,"کاظم وزیری هامانه",translated,m,Yazd
+620,Mahmoud Djam,"محمود دیم",translated,m,Tabriz
+621,Mahmoud Farshidi,"محمود فرشیدی",translated,m,NotGiven
+622,Manouchehr Ganji,"منوچهر گنجی",translated,m,Tehran
+623,Maurice Motamed,"موریس معتمد",translated,m,NotGiven
+624,Mehrangiz Dowlatshahi,"مهرانگیز داولشتهای",translated,f,NotGiven
+625,Mirza Ali Asghar Khan Amin al Soltan,"میرزا علی اصغر خان امین سلطان",translated,m,Tehran
+626,Mirza Hassan Khan Esfandiary,"میرزا حسن خان اسفندیاری",translated,m,NotGiven
+627,Mohammad Ali Hosseini,"محمد علی حسینی",translated,m,NotGiven
+628,Mohammad Ardakani,"محمد اردکانی",translated,m,NotGiven
+629,Mohammad Bahrami,"محمد بهرامی",translated,n,NotGiven
+630,Mohammad Beheshti Shirazi,"محمد بهشتی شیرازی",translated,m,NotGiven
+631,Mohammad Hosseini (politician),"محمد حسینی (سیاستمدار)",translated,m,NotGiven
+632,Mohammad Hossein Jalali,"محمد حسین جلالی",translated,m,NotGiven
+633,Mohammad Hossein Khoshvaght,"محمد حسین خوشنق",translated,m,NotGiven
+634,Mohammad Jahromi,"محمد جوهرمی",translated,m,NotGiven
+635,Mohammad Montazeri,"محمد منتظری",translated,m,NotGiven
+636,Mohammad Reza Hekmat,"محمد رضا حکمت",translated,m,NotGiven
+637,Morteza Zarringol,"مرتضی زرینگوول",translated,m,NotGiven
+638,Mostafa Mir Salim,"مصطفی میر سلیم",translated,m,NotGiven
+639,Mousa Chegini,"موسا چگینی",translated,m,NotGiven
+640,Mousa Namjoo,"موسا نامجو",translated,m,NotGiven
+641,Mousa Qorbani,"موسی قربانی",translated,m,NotGiven
+642,Mozaffar Alam,"مظفر الام",translated,m,NotGiven
+643,Nasser Minachi,"ناصر میناکی",translated,m,NotGiven
+644,Nasser Yeganeh,"ناصر یگانه",translated,m,NotGiven
+645,nl/Ali Razmara,"nl / Ali Razmara",translated,n,NotGiven
+646,nl/Jafaar Sharif Emami,"nl / جعفر شريف امامی",translated,n,NotGiven
+647,Nosrat ollah Jahanshahlou,"نصرت توره جهانشاهلو",translated,m,NotGiven
+648,Parviz C. Radji,"پرویز رادجی",translated,m,NotGiven
+651,Rahimkhan Chalabianloo,"رحیمخان چلبیانلو",translated,m,NotGiven
+652,Rasoul Movahedian,"رسول موحدین",translated,m,NotGiven
+653,Reza Alamouti,"رضا الاموتی",translated,m,NotGiven
+654,Roozbeh Farahanipour,"روزبه فراهانی پور",translated,m,NotGiven
+655,Sadeq Khalilian,"صادق خلیلیان",translated,m,NotGiven
+656,Safdar Rahmat Abadi,"صفدر رحمت آبادی",translated,m,NotGiven
+657,Sedigh Kamangar,"Sedigh Kamangar",translated,m,NotGiven
+658,Shah Seyyed Ali Kazemi,"شاه سید علی کاظمی",translated,m,NotGiven
+659,Soheila Darvishkohan,"سهیلا درویشکانان",translated,f,NotGiven
+660,Yadollah Javani,"يادولله جاوانی",translated,m,NotGiven
+661,Zahra Shojaei,"زهرا شجاعی",translated,n,NotGiven
+662,Ziaeddin Tavakkoli,"زیا الدین توکلی",translated,m,NotGiven
+663,Zohreh Akhyani,"زهره آخانی",translate,f,NotGiven
