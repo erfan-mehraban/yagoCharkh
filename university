@@ -1,6 +1,46 @@
-1,University of Tehran
-2,Sharif University of Technology
-3,Ruhr University Bochum
-4,Imam Sadiq University
-5,Shiraz University
-6,University of Kentucky
+id,university_tag,fa_label,labeledOrTranslated
+1,University of Tehran,"انتشارات دانشگاه تهران",labeled
+2,Sharif University of Technology,"دانشگاه صنعتی شریف",labeled
+3,Ruhr University Bochum,"دانشگاه رور بوخوم",labeled
+4,Imam Sadiq University,"دانشگاه امام صادق (ع)",labeled
+5,Shiraz University,"دانشگاه علوم پزشكي شيراز",labeled
+6,University of Kentucky,"دانشگاه كنتاكي",labeled
+7,University of Isfahan,"دانشکدهٔ حمل و نقل",labeled
+8,Shahid Beheshti University,"دانشگاه علوم پزشكي و خدمات درماني شهيد بهشتي",labeled
+9,Imam Hossein University,"دانشگاه امام حسين",labeled
+10,Tarbiat Modares University,"دانشگاه تربیت مدرس تهران",labeled
+12,University of Geneva,"دانشگاه ژنو",labeled
+13,Katholieke Universiteit Leuven,"دانشگاه كي. يو. لون",labeled
+14,University of Nottingham,"دانشگاه ناتينگهام",labeled
+16,American University of Beirut,"کالج آمریکایی بیروت",labeled
+17,Johns Hopkins University,"دانشگاه جانز هاپکینز",labeled
+18,Shahid Chamran University of Ahvaz,"دانشگاه شهيد چمران",labeled
+19,Amirkabir University of Technology,"دانشگاه صنعتي امير كبير",labeled
+20,Islamic Azad University,"دانشگاه ازاد اسلامی واحد تهران مرکزی",labeled
+21,Utah State University,"دانشگاه ایالتی یوتا",labeled
+22,Allameh Tabatabaei University,"مدرسه عالي ترجمه",labeled
+23,American University,"كالج پزشكي دانشگاه آمريكايي آنتيگوا",labeled
+24,Baylor University,"دانشگاه بیلور",labeled
+25,Ferdowsi University of Mashhad,"دانشگاه فردوسی مشهد",labeled
+26,University of Birmingham,"دانشگاه بیرمنگام",labeled
+27,Shahid Bahonar University of Kerman,"دانشگاه كرمان",labeled
+28,University of Cambridge,"دانشگاه کیمبریج",labeled
+29,Sorbonne (building),"دانشگاه سوربن پاريس",labeled
+31,Imam Khomeini International University,"دانشگاه امام خمینی قزوین",labeled
+32,Glasgow Caledonian University,"دانشگاه كلدونين گلاسگو",labeled
+38,San Francisco State University,"دانشگاه ايالتي سان فرانسيسكو",labeled
+39,George Mason University,"دانشگاه جرج ميسون",labeled
+40,University of Neuchâtel,"دانشگاه نوشاتل",labeled
+41,George Washington University,"دانشگاه جورج واشینگتن",labeled
+42,California Polytechnic State University,"دانشگاه ایالتی کالیفرنیا در سن لوئی ابیسپو",labeled
+43,University of Lausanne,"دانشگاه لوزان",labeled
+45,K.N.Toosi University of Technology,"دانشگاه صنعتي خواجه نصيرالدين طوسي",labeled
+46,Iowa State University,"دانشگاه ایالتی آیووا",labeled
+11,Tehran School of Political Science,"دانشکده علوم سیاسی تهران",translated
+15,University of Coimbra,"دانشگاه کویمبرا",translated
+30,National War College,"کالج ملی جنگی",translated
+33,Cornell University of Medical Sciences,"دانشگاه علوم پزشکی کرنل",translated
+34,Pantheon-Sorbonne University,"دانشگاه پانتئون-سوربن",translated
+36,Supélec,"Supélec",translated
+37,École Centrale Paris,"École Centrale پاریس",translated
+44,Government College University Lahore,"دانشگاه کالج دانشگاه لاهور",translate

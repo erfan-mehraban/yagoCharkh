@@ -1,105 +1,106 @@
-10,University of Isfahan
-12,University of Geneva
-16,Katholieke Universiteit Leuven
-20,Tarbiat Modares University
-46,University of Nottingham
-52,Sharif University of Technology
-54,University of Coimbra
-62,University of Tehran
-63,American University of Beirut
-64,Johns Hopkins University
-65,University of Tehran
-72,University of Tehran
-86,Shiraz University
-89,Shahid Chamran University of Ahvaz
-93,University of Tehran
-94,University of Tehran
-100,University of Tehran
-101,Amirkabir University of Technology
-103,Islamic Azad University
-107,Utah State University
-114,University of Tehran
-117,Tarbiat Modares University
-120,Amirkabir University of Technology
-127,University of Tehran
-132,University of Tehran
-134,Allameh Tabatabaei University
-135,American University
-145,Baylor University
-146,Ferdowsi University of Mashhad
-149,University of Tehran
-151,Sharif University of Technology
-155,University of Birmingham
-158,University of Tehran
-185,Shahid Beheshti University
-216,University of Tehran
-232,Shahid Bahonar University of Kerman
-247,University of Cambridge
-256,Sorbonne (building)
-263,University of Tehran
-265,Tarbiat Modares University
-266,Tarbiat Modares University
-268,Shahid Chamran University of Ahvaz
-270,University of Tehran
-271,National War College
-277,University of Tehran
-294,Sharif University of Technology
-297,University of Tehran
-300,Imam Khomeini International University
-306,Glasgow Caledonian University
-307,University of Tehran
-311,University of Tehran
-313,University of Tehran
-315,University of Tehran
-317,University of Tehran
-325,University of Tehran
-327,University of Tehran
-330,University of Tehran
-332,Cornell University
-337,University of Tehran
-339,Shiraz University of Medical Sciences
-341,Pantheon-Sorbonne University
-343,Ferdowsi University of Mashhad
-356,Supélec
-364,University of Tehran
-374,University of Tehran
-375,Tarbiat Modares University
-378,École Centrale Paris
-380,Sharif University of Technology
-381,University of Tehran
-384,Shahid Beheshti University
-391,University of Isfahan
-392,Tehran School of Political Science
-393,University of Tehran
-394,Sharif University of Technology
-397,Tarbiat Modares University
-400,University of Tehran
-403,University of Tehran
-405,University of Tehran
-406,University of Tehran
-409,San Francisco State University
-413,University of Tehran
-414,George Mason University
-418,Tarbiat Modares University
-420,University of Neuchâtel
-422,George Washington University
-425,University of Tehran
-426,University of Tehran
-428,University of Tehran
-431,California Polytechnic State University
-433,University of Tehran
-434,University of Lausanne
-446,Government College University, Lahore
-453,University of Tehran
-454,University of Tehran
-458,University of Tehran
-464,Sharif University of Technology
-467,K.N.Toosi University of Technology
-470,University of Tehran
-472,Shiraz University
-483,Amirkabir University of Technology
-491,Iowa State University
-492,Imam Hossein University
+politician_id,university_id
+10,7
+12,12
+16,13
+20,10
+46,14
+52,2
+54,15
+62,1
+63,16
+64,17
+65,1
+72,1
+86,5
+89,18
+93,1
+94,1
+100,1
+101,19
+103,20
+107,21
+114,1
+117,10
+120,19
+127,1
+132,1
+134,22
+135,23
+145,24
+146,25
+149,1
+151,2
+155,26
+158,1
+185,8
+216,1
+232,27
+247,28
+256,29
+263,1
+265,10
+266,10
+268,18
+270,1
+271,30
+277,1
+294,2
+297,1
+300,31
+306,32
+307,1
+311,1
+313,1
+315,1
+317,1
+325,1
+327,1
+330,1
+332,33
+337,1
+339,5
+341,34
+343,25
+356,36
+364,1
+374,1
+375,10
+378,37
+380,2
+381,1
+384,8
+391,7
+392,11
+393,1
+394,2
+397,10
+400,1
+403,1
+405,1
+406,1
+409,38
+413,1
+414,39
+418,10
+420,40
+422,41
+425,1
+426,1
+428,1
+431,42
+433,1
+434,43
+446,44
+453,1
+454,1
+458,1
+464,2
+467,45
+470,1
+472,5
+483,19
+491,46
+492,9
 494,1
 500,1
 509,2
