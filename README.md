@@ -30,7 +30,7 @@ skos:prefLabel | ??? | `<id_wl7rbm_1sz_1tq8yaq>	<Tibirke_(parochie)>	skos:prefLa
 isPreferredMeaningOf | ??? | `<id_10jfv89_nyg_hywqnh>	<wordnet_subsidiary_company_108003935>	<isPreferredMeaningOf>	tsubsidiar	t@eng`
 hasGloss | ??? | `<id_o8bx5t_11h_196h34l>	<wordnet_deviltry_100745943>	<hasGloss>	twicked and cruel behavio	t@eng`
 
-----
+-----
 
 ### yagoGeonamesTypes.tsv (462M)
 
@@ -63,7 +63,7 @@ hasLongtitude |	t |	t | `	<geoentity_London_Reefs_1879967>	<hasLongitude>	t112.5
 hasGeonamesEntityId | 	t[:digit:]	t | ای دیش رو میده. ولی نمی‌دونم به چه دردی می‌خوره هنوز | `	<geoentity_London_Reefs_1879967>	<hasGeonamesEntityId>	t187996	t	`
 isLocatedIn | \<geoentity_.*\> | میگه چی تو چیه دیگه! | `	<geoentity_Dyker_Heights_6690888>	<isLocatedIn>	<geoentity_Dyker_Heights_5115614>	`
 
----
+-----
 ### yagoFacts.tsv (404M)
 
 col 1 : \<id_.*\>
@@ -126,7 +126,7 @@ cat yagoFacts.tsv | cut -f3 | uniq | sort | uniq
 <id_122j09p_1ul_11dfc2s>        <John_Scales>   <playsFor>      <Ipswich_Town_F.C.>     
 <id_11palep_z7a_zk40qr> <Dewa,_Togo>    <isLocatedIn>   <Togo>  
 ```
----
+-----
 ### yagoConteXtFacts_fa.tsv (394M)
 
 شاید بیشتر به درد این بخوره که تگ تقریبا به هم مرتیط رو پیدا کنیم.
@@ -141,7 +141,7 @@ col 3 : \<.*\>@fas
 	<Wikipedia>	<hasWikipediaAnchorText>	tواژه‌ای ترکیب	t@fas	
 	<Wikipedia>	<hasWikipediaAnchorText>	tآزا	t@fas
 ```
----
+-----
 
 ### yagoInfoboxAttributes_fa.tsv (164M)
 میشه اینجا اطلاعات مربوط به یک چیز رو با ریلیشن مشخص پیدا کرد.
@@ -165,7 +165,7 @@ col 4 : 	t.*	t@fa
 <id_ccga4c_1rs_17vera7>	<محمد_مصدق>	<infobdeathplace>	t[[احمدآباد (نظرآباد)|احمدآباد]]، ایرا	t@fa	
 <id_ccga4c_37o_1yj8fw2>	<محمد_مصدق>	<infobimage>	tMossadeghmohammad.jp	t@fa	
 ```
----
+-----
 ### yagoTaxonomy.tsv (60M)
 
 سلسه چیزهارو میشه از توش در آورد بیرون.
@@ -183,7 +183,7 @@ col 2 & 4 : \<wikicat_.\*\> or \<wordnet_.\*\>
 
 col 3 : rdfs:subClassOf
 
----
+-----
 ### yagoRedirectLabels_fa.tsv (42M)
 
 خیلی شبیه به تگهای ریدایرکت فرام ها توی فایل yagoLables هست.
@@ -199,7 +199,7 @@ col 3 :	t.	t@fas
         <فیلسوفان_سده_بیستم> <redirectedFrom>       	tفیلسوفان سدهٔ بیست	t@fas        
         <Chinatown>     <redirectedFrom>       	tمحلهٔ چيني ه	t@fas      
 ```
----
+-----
 ### yagoTypes.tsv (1.5G)
 
 col 1 : \<id_.*\>
@@ -217,7 +217,7 @@ col 3 : rdf:type
 <id_1g2r1pv_88c_1nlz59o>        <Akbar_Ahmad>   rdf:type        <wikicat_Living_people> 
 ```
 
----
+-----
 ### yagoSimpleTaxonomy.tsv (39M)
 
 A simplified rdfs:subClassOf taxonomy. This taxonomy contains just WordNet leaves, the main YAGO branches, and owl:Thing. Use with yagoSimpleTypes.
@@ -233,7 +233,7 @@ every line :	twikicat | wordnet | yagoGeoEntit	t
 	<wikicat_People_from_Warren_County,_Indiana>	rdfs:subClassOf	<wordnet_person_100007846>	
 ```
 
----
+-----
 
 ### yagoWikipediaInfo_fa.tsv (8.9M)
 
@@ -251,7 +251,7 @@ col 3 : \<hasWikipediaUrl\> | \<linksTo\>
         <فرهنگسرا>   <linksTo>       <Bahman>        
 ```
 
----
+-----
 
 ### yagoSchema.tsv (35K)
 
@@ -567,6 +567,7 @@ Zahra Shojaei
 Ziaeddin Tavakkoli
 Zohreh Akhyani
 ```
+
 اونای که سر رشته ‌ar دارن رو همین جوری میشه گذاشت و نیاز به لیبل فارسی ندارد
 متوجه شدم که چندتا از داده ها اشتباهن
 برای همین حذفشون کردم
@@ -575,10 +576,13 @@ Zohreh Akhyani
 خب کارم با سیاستمداران تموم شد
 
 حالا میرم سراغ احزاب
+
 ```
 cat yagoTaxonomy.tsv | grep -i	tpart.*iran\|iran.*par	t
 ```
+
 که از بینشون اینا به درد بخورن:
+
 ```
 <wikicat_Youth_wings_of_political_parties_in_Iran>
 <wikicat_Political_parties_in_Iran>
@@ -587,13 +591,16 @@ cat yagoTaxonomy.tsv | grep -i	tpart.*iran\|iran.*par	t
 <wikicat_Communist_parties_in_Iran>
 <wikicat_Defunct_political_parties_in_Iran>
 ```
+
 rows covered -> +6
 
 ```
 cat yagoTypes.tsv | grep -f wikicat_iran_parties | cut -f 2 | tr '_-' '  ' | sed 's/>//' | sed 's/<//' | uniq | sort | uniq > parties_1
 ```
+
 rows covered -> +114
 اونایی که لیبل فارسی نداشتن
+
 ```
 Aryan League
 Baluchistan People's Party
@@ -633,10 +640,13 @@ Young Communist League of Persia
 <wikicat_Elections_in_Iran>
 <wikicat_2009_elections_in_Iran>
 ```
+
 rows covered -> +6
+
 ```
 cat yagoTypes.tsv | grep -f wikicat_election | cut -f2 | uniq | tr '_-' '  '| sed 's/>//' | sed 's/<//' | sort | uniq > election
 ```
+
 مشاهده شد که انتخابات دارای تگ، سال، نوع میباشد
 ولی توی اسم انتخابات ها کاما وجود داره
 برای همین دلیمتر این فایل رو استثنائا تب میذارم
@@ -644,6 +654,7 @@ cat yagoTypes.tsv | grep -f wikicat_election | cut -f2 | uniq | tr '_-' '  '| se
 ولی بقیه موارد قابل استخراج بود
 
 میرسیم به اعتراضات
+
 ```
 cat yagoSimpleTaxonomy.tsv | grep -i "protest.*iran\|iran.*protest"
 	<wikicat_Student_protests_in_Iran>	rdfs:subClassOf	<wordnet_abstraction_100002137>	
@@ -652,6 +663,7 @@ cat yagoSimpleTaxonomy.tsv | grep -i "protest.*iran\|iran.*protest"
 cat yagoTypes.tsv | grep -i "<wikicat_Protests_in_Iran>" | cut -f2 | uniq | tr '_-' '  '| sed 's/>//' | sed 's/<//' | sort | uniq > protest_pure
 
 ```
+
 rows covered -> 22
 تنها نکته ای که هست اینکه کلی اعتراض در سال ۸۸ داشتیم که شاید یکی بشه درنظر گرفتشون
 کما اینکه چندتا از رکورد ها اصلا خودشون مجموعه ای از اعتراضات هستن
@@ -660,27 +672,34 @@ rows covered -> 22
 چون دانش کافی برای تصمیم گیری در این زمینه رو ندارم
 
 با گشتن واژه ی قرارداد و گسترش سرچ به تایپ زیر رسیدم
+
 ```
 <wikicat_Treaties_of_Iran>
 ```
+
 ```
 cat yagoTypes.tsv | grep -f wikicat_Treaties_of_Iran | cut -f2 | uniq | tr '_-' '  '| sed 's/>//' | sed 's/<//' | sort | uniq > treaties_pure
 ```
+
 rows covered -> +82
 
 با سرچ کردن سازمان و ایران در تکسونومی به تایپ های زیر رسیدم
+
 ```
 <wikicat_Iranian_security_organizations>
 <wikicat_Human_rights_organisations_based_in_Iran>
 <wikicat_Political_organisations_in_Iran>
 ```
+
 rows covered -> +12
 
 ```
 cat yagoTaxonomy.tsv | grep -i "_war.*iran\|iran.*_war"
 ```
+
 که از بین اینا
 اینا به درد میخورن:
+
 ```
 <wikicat_Military_operations_of_the_Iran–Iraq_War>
 <wikicat_Naval_battles_of_the_Iran–Iraq_War_involving_the_United_States>
@@ -689,14 +708,19 @@ cat yagoTaxonomy.tsv | grep -i "_war.*iran\|iran.*_war"
 <wikicat_Wars_involving_Iran>
 <wikicat_Iranian_civil_wars>
 ```
+
 rows covered -> +5
+
 ```
 cat yagoTypes.tsv | grep -f war_types | cut -f2 | uniq | tr '_-' '  '| sed 's/>//' | sed 's/<//' | sort | uniq > war_pure
 ```
+
 rows covered -> +72
+
 ```
 cat yagoTypes.tsv | grep -f op_types | cut -f2 | uniq | tr '_-' '  '| sed 's/>//' | sed 's/<//' | sort | uniq > op_pure 
 ```
+
 rows covered -> +59
 
 به دیتاهایی که تا الان به دست آوردم با make_id.py ای دی میدم که تو ریلیشن ساختن ازش استفاده کنم.
@@ -705,17 +729,20 @@ rows covered -> +59
 
 برای سریع تر شدن هم برای هر لیبل، اون سطر هایی که اون لیبل رو دارن جدا میکردم و میریختم تو یه فایل که سرچ رو سریع تر کرد
 اینجوری:
+
 ```
 grep -i "isMarriedTo" yagoFacts.tsv | cut -f2- > facts_spouse
 ```
 
 با برنامه findfact ریلیشن های زیر رو برای هر سیاستمدار در میارم
 تگ های زیر رو استفاده کردم.
+
 ```
 <wasBornIn>
 <hasGender>
 <graduatedFrom>
 ```
+
 rows covered -> (hasgender) 518
 -> (grad) 114
 -> (Born) 292
@@ -725,10 +752,12 @@ rows covered -> (hasgender) 518
 rows covered -> +129
 
 خب حالا ژنای خوب رو هم جدا کنیم
+
 ```
 <hasChild>
 <isMarriedTo>
 ```
+
 rows covered -> 63
 
 به جز لیبل های فارسی در کل 2393 ردیف پوشش داده شد.
