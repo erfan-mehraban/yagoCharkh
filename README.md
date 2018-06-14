@@ -288,106 +288,22 @@ rdf:type
 ```
 grep -i	thassan.*rouhan	t yagoRedirectLabels_fa.tsv
 ```
-```
-	<Hassan_Rouhani>	<redirectedFrom>	tدکترحسن روحان	t@fas	
-	<Hassan_Rouhani_presidential_campaign,_2013>	<redirectedFrom>	tحسن روحانی در انتخابات ریاست‌جمهوری ایران (1392	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tشيخ ديپلما	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tشیخ دیپلما	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tحسن فريدو	t@fas	
-	<Hassan_Rouhani_presidential_campaign,_2013>	<redirectedFrom>	tحسن روحانی در انتخابات ریاست جمهوری ایران (۱۳۹۲	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tدکتر حسن فریدو	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tدكتر روحان	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tدكتر حسن فريدو	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tدکتر روحان	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tدكترحسن روحان	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tحسن روحان	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tپيشواي مذهب	t@fas	
-	<Hassan_Rouhani_presidential_campaign,_2013>	<redirectedFrom>	tحسن روحاني در انتخابات رياست جمهوري ايران (1392	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tروحاني	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tدکتر حسن روحان	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tدكتر حسن روحان	t@fas	
-	<Hassan_Rouhani_presidential_campaign,_2013>	<redirectedFrom>	tحسن روحاني در انتخابات رياست جمهوري ايران (۱۳۹۲	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tعالم دين	t@fas	
-	<Hassan_Rouhani_presidential_campaign,_2013>	<redirectedFrom>	tحسن روحانی در انتخابات ریاست جمهوری ایران (1392	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tعالم دین	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tپیشوای مذهب	t@fas	
-	<Hassan_Rouhani>	<redirectedFrom>	tحسن فریدو	t@fas	
-```
 خب اینجا یه سری لقب و شهرت داریم. جالبه!
 ```
 grep -i	thassan.*rouhan	t yagoLabels.tsv
-```
-```
-<id_j6oh03_qkd_1m2nhii>	<Hassan_Rouhani>	<redirectedFrom>	tHasan Rohan	t@eng	
-<id_j6oh03_1ia_opo8qb>	<Hassan_Rouhani>	rdfs:label	tHasan Rouhan	t@spa	
-<id_j6oh03_qkd_eyedda>	<Hassan_Rouhani>	<redirectedFrom>	tRowhan	t@eng	
-<id_j6oh03_1ia_opo8qb>	<Hassan_Rouhani>	rdfs:label	tHasan Rouhan	t@pol	
-<id_128kwea_qkd_1qhbzb9>	<Hassan_Rouhani_presidential_campaign,_2013>	<redirectedFrom>	tحسن روحاني در انتخابات رياست جمهوري ايران (1392	t@fas
-<id_j6oh03_qkd_1e6dmpg>	<Hassan_Rouhani>	<redirectedFrom>	tHassan Rowhan	t@eng	
-<id_j6oh03_qkd_1e6dmpg>	<Hassan_Rouhani>	<redirectedFrom>	tHassan Rowhan	t@spa	
-<id_j6oh03_qkd_r98hys>	<Hassan_Rouhani>	<redirectedFrom>	tعالم دین	t@fas	
-<id_128kwea_qkd_iq0io5>	<Hassan_Rouhani_presidential_campaign,_2013>	<redirectedFrom>	tحسن روحاني در انتخابات رياست جمهوري ايران (۱۳۹۲	t@fas	
-<id_fji5ly_1sz_bujaed>	<Inauguration_of_Hassan_Rouhani>	skos:prefLabel	tInauguration of Hassan Rouhan	t@eng	
-<id_j6oh03_15u_44o4m>	<Hassan_Rouhani>	<hasGivenName>	tHassa	t	
-<id_128kwea_1ia_1q1kp9>	<Hassan_Rouhani_presidential_campaign,_2013>	rdfs:label	tحسن روحانی در انتخابات ریاست‌جمهوری ایرا	t@fas	
 ```
 اینجا هم به انواع و اقسام زبون های مختلف اسم ایشون هست. یه کمپین هم اون وسط میبینیم!
 ```
 grep -i	thassan.*rouhan	t yagoFacts.tsv               
 ```
-```
-<id_j6oh03_10x_ozmjfg>	<Hassan_Rouhani>	<graduatedFrom>	<Glasgow_Caledonian_University>	
-<id_j6oh03_10x_knw1r3>	<Hassan_Rouhani>	<graduatedFrom>	<University_of_Tehran>	
-<id_j6oh03_1c7_zjx1yu>	<Hassan_Rouhani>	<isLeaderOf>	<Iran>	
-<id_j6oh03_10x_qs91q9>	<Hassan_Rouhani>	<graduatedFrom>	<University_of_Glasgow>	
-<id_j6oh03_1s2_1oudnjq>	<Hassan_Rouhani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_j6oh03_14h_zjx1yu>	<Hassan_Rouhani>	<isPoliticianOf>	<Iran>	
-<id_j6oh03_1s2_1edkg9z>	<Hassan_Rouhani>	<isAffiliatedTo>	<Islamic_Republican_Party>	
-<id_j6oh03_10x_18jvp3p>	<Hassan_Rouhani>	<graduatedFrom>	<Qom_Hawza>	
-<id_j6oh03_1c7_bqvclm>	<Hassan_Rouhani>	<isLeaderOf>	<Non-Aligned_Movement>	
-<id_j6oh03_p3m_zkjp59>	<Hassan_Rouhani>	<hasGender>	<male>	
-<id_j6oh03_oyl_tk3qk6>	<Hassan_Rouhani>	<wasBornIn>	<Sorkheh>
-```
 این که حزب روحانیون مبارز اون وسط هست میتونه منو به یه سری آدم دیگه برسونه. ایز لیدر آف هم جالبه.
 ```
 cat yagoFacts.tsv | grep -i	t\<isLeaderOf\>.*<Iran\	t                  
 ```
-```
-<id_1h8zcle_1c7_zjx1yu>	<Eshaq_Jahangiri>	<isLeaderOf>	<Iran>	
-<id_j6oh03_1c7_zjx1yu>	<Hassan_Rouhani>	<isLeaderOf>	<Iran>	
-<id_5mxh1z_1c7_zjx1yu>	<Ali_Khamenei>	<isLeaderOf>	<Iran>
-```
 خب پس خیلی به دردم نخورد!
 ```
-cat yagoFacts.tsv | grep -i	t<isAffiliatedTo>.*<Combatant_Clergy_Association	t
-```
-```
-<id_c9o4f0_1s2_1oudnjq>	<Abbas-Ali_Amid_Zanjani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_imq5du_1s2_1oudnjq>	<Mohammad-Reza_Mahdavi_Kani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_j6oh03_1s2_1oudnjq>	<Hassan_Rouhani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_11670mh_1s2_1oudnjq>	<Mostafa_Pourmohammadi>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_rp5j2f_1s2_1oudnjq>	<Ali_Meshkini>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_1cl3w0j_1s2_1oudnjq>	<Mohammad_Yazdii>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_10709pj_1s2_1oudnjq>	<Hashemi_Rafsanjani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_5mxh1z_1s2_1oudnjq>	<Ali_Khamenei>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_1fvo9gq_1s2_1oudnjq>	<Mohammad-Hassan_Aboutorabi_Fard>	<isAffiliatedTo>	<Combatant_Clergy_Association>
-```
-```
-cat yagoFacts.tsv | grep -i	tCombatant_Clergy_Associatio	t
-```
-```
-<id_1oudnjq_z7a_5uo9mw>	<Combatant_Clergy_Association>	<isLocatedIn>	<Tehran>	
-<id_c9o4f0_1s2_1oudnjq>	<Abbas-Ali_Amid_Zanjani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_imq5du_1s2_1oudnjq>	<Mohammad-Reza_Mahdavi_Kani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_1oudnjq_z7a_zjx1yu>	<Combatant_Clergy_Association>	<isLocatedIn>	<Iran>	
-<id_j6oh03_1s2_1oudnjq>	<Hassan_Rouhani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_11670mh_1s2_1oudnjq>	<Mostafa_Pourmohammadi>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_rp5j2f_1s2_1oudnjq>	<Ali_Meshkini>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_1cl3w0j_1s2_1oudnjq>	<Mohammad_Yazdii>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_10709pj_1s2_1oudnjq>	<Hashemi_Rafsanjani>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_5mxh1z_1s2_1oudnjq>	<Ali_Khamenei>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
-<id_1oudnjq_ice_ierbyk>	<Combatant_Clergy_Association>	<hasWebsite>	<htt/rohaniatmobarez.c>	
-<id_1fvo9gq_1s2_1oudnjq>	<Mohammad-Hassan_Aboutorabi_Fard>	<isAffiliatedTo>	<Combatant_Clergy_Association>	
+cat yagoFacts.tsv | grep -i	t<isAffiliatedTo>.*<Combatant_Clergy_Associati
+cat yagoFacts.tsv | grep -i	tCombatant_Clergy_Associati
 ```
 این که یه حزبی توی ایران باشه به درد می‌خوره
 ولی یه جور باید بفهمم که هم تو ایرانه و هم حزبه
@@ -397,67 +313,12 @@ cat yagoFacts.tsv | grep -i	t<isLocatedIn>.*<Iran	t | cut -f2 > in_iran
 cat yagoFacts.tsv | grep -i	t<isAffiliatedTo	t | cut -f4 > affiliated
 grep -Fx -f affiliated in_iran
 ```
-```
-<Combatant_Clergy_Association>
-<Islamic_Republican_Party>
-<Iranian_reform_movement>
-<Azadegan_League>
-<Shahrdari_Gorgan_BC>
-<Azad_University_Tehran_BC>
-<Mojahedin_of_the_Islamic_Revolution_Organization>
-<Bank_Sepah>
-<Rastakhiz_Party>
-<Mahram_Tehran_BC>
-<Islamic_Society_of_Engineers>
-<Bank_Melli_Iran>
-<Kurdistan_Workers'_Party>
-<Islamic_Iran_Participation_Front>
-<Executives_of_Construction_Party>
-<Petrochimi_Bandar_Imam_BC>
-<Association_of_Combatant_Clerics>
-<Nation_Party_of_Iran>
-<Pars_Khodro>
-<University_of_Tehran>
-<Zob_Ahan_Isfahan_BC>
-<National_Trust_Party_(Iran)>
-<Saba_Battery_Tehran_BC>
-<Alliance_of_Builders_of_Islamic_Iran>
-<National_Front_(Iran)>
-```
 خب مثل اینکه پارس خودرو یا دانشگاه تهران  یا شهرداری گرگان حزب سیاسی نیست :|
 در هر صورت لیست به درد بخوری شاید باشه!
 
 برگردیم به همون روحانی
 ```
 grep -i	thassan.*rouhan	t yagoTypes.tsv              
-```
-```
-<id_128kwea_88c_gbx2ko>	<Hassan_Rouhani_presidential_campaign,_2013>	rdf:type	<wordnet_political_campaign_107472929>	
-<id_j6oh03_88c_k9sqxo>	<Hassan_Rouhani>	rdf:type	<wikicat_Alumni_of_Glasgow_Caledonian_University>	
-<id_j6oh03_88c_1hw68kf>	<Hassan_Rouhani>	rdf:type	<wikicat_Combatant_Clergy_Association_politicians>	
-<id_j6oh03_88c_k157oh>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_Majlis_Deputy_Speakers>	
-<id_j6oh03_88c_1rb0t67>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_Majlis_Representatives>	
-<id_j6oh03_88c_juljkk>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_academics>	
-<id_j6oh03_88c_1cewq2z>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_clerics>	
-<id_j6oh03_88c_173d4kp>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_diplomats>	
-<id_j6oh03_88c_xis0s7>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_lawyers>	
-<id_j6oh03_88c_ef6kon>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_politicians>	
-<id_j6oh03_88c_up6ot4>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_reformists>	
-<id_j6oh03_88c_1fv0w2t>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_revolutionaries>	
-<id_j6oh03_88c_1jibh39>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_scholars>	
-<id_j6oh03_88c_1oqwaqw>	<Hassan_Rouhani>	rdf:type	<wikicat_Iranian_writers>	
-<id_j6oh03_88c_12dr1lc>	<Hassan_Rouhani>	rdf:type	<wikicat_Islamic_Republican_Party_politicians>	
-<id_j6oh03_88c_1nlz59o>	<Hassan_Rouhani>	rdf:type	<wikicat_Living_people>	
-<id_j6oh03_88c_1cf6iq>	<Hassan_Rouhani>	rdf:type	<wikicat_Muslim_theologians>	
-<id_j6oh03_88c_1x8jksx>	<Hassan_Rouhani>	rdf:type	<wikicat_People_from_Semnan_Province>	
-<id_j6oh03_88c_12hu0w7>	<Hassan_Rouhani>	rdf:type	<wikicat_People_of_the_Iranian_Revolution>	
-<id_j6oh03_88c_ug6gob>	<Hassan_Rouhani>	rdf:type	<wikicat_Presidents_of_Iran>	
-<id_j6oh03_88c_161i36g>	<Hassan_Rouhani>	rdf:type	<wikicat_Scholars_of_constitutional_law>	
-<id_j6oh03_88c_10dtai>	<Hassan_Rouhani>	rdf:type	<wikicat_Shia_clerics>	
-<id_j6oh03_88c_vafydj>	<Hassan_Rouhani>	rdf:type	<wordnet_officeholder_110371450>	
-<id_fji5ly_88c_11pvtxm>	<Inauguration_of_Hassan_Rouhani>	rdf:type	<wikicat_Ceremonies_in_Iran>	
-<id_fji5ly_88c_kj68k7>	<Inauguration_of_Hassan_Rouhani>	rdf:type	<wikicat_Presidential_inaugurations>	
-<id_fji5ly_88c_1jtpavx>	<Inauguration_of_Hassan_Rouhani>	rdf:type	<wordnet_event_100029378>	
 ```
 این لیست جالبیه. اگه بشه یه جورایی گسترش داد شاید بشه به آدمای بیشتری رسید.
 ```
@@ -468,18 +329,14 @@ grep -i	trouhan	t yagoTaxonomy.tsv
 ```
 با همون لیست تایپ ها بیشتر کار می‌کنم
 ```
-egrep -i	twikicat_Iranian_politician	t yagoSimpleTaxonomy.tsv             
-	<wikicat_Iranian_politicians>	rdfs:subClassOf	<wordnet_person_100007846>	
-	<wikicat_Iranian_politicians_who_committed_suicide>	rdfs:subClassOf	<wordnet_person_100007846>	
+egrep -i	twikicat_Iranian_politician	t yagoSimpleTaxonomy.tsv
 ```
 ```
-egrep -i	twikicat_Iranian_politician	t yagoTaxonomy.tsv      
-<id_ef6kon_1m6_1kbnimg>	<wikicat_Iranian_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<id_gyvrxe_1m6_1kbnimg>	<wikicat_Iranian_politicians_who_committed_suicide>	rdfs:subClassOf	<wordnet_politician_110450303>	
+egrep -i	twikicat_Iranian_politician	t yagoTaxonomy.tsv
 ```
 ```
 egrep -i	twikicat_Iranian_politician	t yagoTypes.tsv > wikicat_Iranian_politicians
-wc wikicat_Iranian_politicians                                     
+wc wikicat_Iranian_politicians
   311  1244 26885 wikicat_Iranian_politicians
 ```
 سیصد و یازده تا سیاستمدار ایرانی خوبه!
@@ -493,54 +350,7 @@ egrep	trouhan	t yagoInfoboxAttributes_fa.tsv
 <id_1meauui_mcq_7shk77>	<حسن_روحانی>	<infobwebsite>	t[htt/rouhani.ir rouhani.ir]{{سخ}}[htt/president.ir president.ir	t@fa	
 ```
 ```
-egrep	tحسن_روحان	t yagoInfoboxAttributes_fa.tsv 
-```
-```
-<id_1meauui_1c9_54ycsn>	<حسن_روحانی>	<infobalmamater>	t[[دانشگاه کلدونین گلاسگو]]{{سخ}}[[دانشگاه تهران]]{{سخ}}[[حوزه علمیه قم]	t@fa	
-<id_1meauui_e7k_zi8p3k>	<حسن_روحانی>	<infobbirthdate>	t[[۹ دی]] [[۱۳۲۷]]{{سخ}}{{تاریخ تولد و سن|۱۹۴۸|۱۲|۳۰|df=y}	t@fa	
-<id_1meauui_ej6_1jqyf4r>	<حسن_روحانی>	<infobbirthplace>	t[[سرخه]]، [[استان سمنان|سمنان]]، [[ایران]	t@fa	
-<id_1meauui_1pg_10bm9q7>	<حسن_روحانی>	<infobblankname>	tرهب	t@fa	
-<id_1meauui_foi_1c5z2k0>	<حسن_روحانی>	<infobconstituency>	t[[استان سمنان]	t@fa	
-<id_1meauui_foi_1c5z2k0>	<حسن_روحانی>	<infobconstituency>	t[[استان سمنان]	t@fa	
-<id_1meauui_37o_1fwohh7>	<حسن_روحانی>	<infobimage>	tHassan Rouhani in Bishkek.jp	t@fa	
-<id_1meauui_3ta_10zjm53>	<حسن_روحانی>	<infobname>	tحسن روحان	t@fa	
-<id_1meauui_ood_79s68d>	<حسن_روحانی>	<infobnamedata>	t[[سید علی خامنه‌ای]	t@fa	
-<id_1meauui_vbi_g2yzf6>	<حسن_روحانی>	<infoboffice>	t[[رئیس‌جمهور ایران]	t@fa	
-<id_1meauui_vbi_m5843k>	<حسن_روحانی>	<infoboffice>	t[[شورای عالی امنیت ملی جمهوری اسلامی ایران|دبیر شورای عالی امنیت ملی]	t@fa	
-<id_1meauui_vbi_197d5hv>	<حسن_روحانی>	<infoboffice>	t[[شورای عالی امنیت ملی جمهوری اسلامی ایران|نماینده رهبر در شورای عالی امنیت ملی]	t@fa	
-<id_1meauui_vbi_vprhx6>	<حسن_روحانی>	<infoboffice>	t[[مجلس خبرگان رهبری|نماینده مجلس خبرگان رهبری]	t@fa	
-<id_1meauui_vbi_1vq740v>	<حسن_روحانی>	<infoboffice>	t[[مجلس شورای اسلامی|نایب رئیس مجلس شورای اسلامی]	t@fa	
-<id_1meauui_vbi_1qmutcq>	<حسن_روحانی>	<infoboffice>	t[[مجلس شورای اسلامی|نماینده مجلس شورای اسلامی]	t@fa	
-<id_1meauui_vbi_byf6l9>	<حسن_روحانی>	<infoboffice>	t[[مجمع تشخیص مصلحت نظام|عضو مجمع تشخیص مصلحت نظام]	t@fa	
-<id_1meauui_vbi_67drr0>	<حسن_روحانی>	<infoboffice>	t[[مرکز تحقیقات استراتژیک|رئیس مرکز تحقیقات استراتژیک{{سخ}}مجمع تشخیص مصلحت نظام]	t@fa	
-<id_1meauui_1r7_1nkb1i7>	<حسن_روحانی>	<infobotherparty>	t[[حزب جمهوری اسلامی]]{{سخ}	t@fa	
-<id_1meauui_3bb_1hv2i71>	<حسن_روحانی>	<infobparty>	tرهبر [[حزب اعتدال و توسعه]	t@fa	
-<id_1meauui_oes_go99sb>	<حسن_روحانی>	<infobpredecessor>	t[[بهزاد نبوی]	t@fa	
-<id_1meauui_oes_17w8rbq>	<حسن_روحانی>	<infobpredecessor>	t[[سید محمد موسوی خوئینی‌ها]	t@fa	
-<id_1meauui_oes_j7z9pi>	<حسن_روحانی>	<infobpredecessor>	t[[محمود احمدی‌نژاد]	t@fa	
-<id_1meauui_j0j_bi58bx>	<حسن_روحانی>	<infobpresident>	t[[اکبر هاشمی رفسنجانی]]{{سخ}}[[سید محمد خاتمی]	t@fa	
-<id_1meauui_1k7_hs14d8>	<حسن_روحانی>	<infobreligion>	t[[اسلام]] [[شیعه]] [[دوازده امامی]	t@fa	
-<id_1meauui_1fy_pvyi3k>	<حسن_روحانی>	<infobsignature>	tRouhani_signature.pn	t@fa	
-<id_1meauui_xdd_1kqhaec>	<حسن_روحانی>	<infobspouse>	t[[صاحبه عربی]] (زادهٔ ۱۳۳۳	t@fa	
-<id_1meauui_1du_13z8zku>	<حسن_روحانی>	<infobsuccessor>	t[[سید محمدرضا خاتمی]	t@fa	
-<id_1meauui_1du_1oixo49>	<حسن_روحانی>	<infobsuccessor>	t[[علی اکبر ولایتی]	t@fa	
-<id_1meauui_1du_ep2ia7>	<حسن_روحانی>	<infobsuccessor>	t[[علی شمخانی]	t@fa	
-<id_1meauui_1du_1nmxxr2>	<حسن_روحانی>	<infobsuccessor>	t[[علی لاریجانی]	t@fa	
-<id_1meauui_1dl_q8lv7c>	<حسن_روحانی>	<infobtermend>	tتاکنو	t@fa	
-<id_1meauui_1dl_5lr4cv>	<حسن_روحانی>	<infobtermend>	t۱۲ مرداد ۱۳۹	t@fa	
-<id_1meauui_1dl_nbbfpo>	<حسن_روحانی>	<infobtermend>	t۱۹ شهریور ۱۳۹	t@fa	
-<id_1meauui_1dl_50ruup>	<حسن_روحانی>	<infobtermend>	t۲۴ مرداد ۱۳۸	t@fa	
-<id_1meauui_1dl_19qw1ju>	<حسن_روحانی>	<infobtermend>	t۶ خرداد ۱۳۷	t@fa	
-<id_1meauui_1w1_1c1qky>	<حسن_روحانی>	<infobtermstart>	t۱۰ مرداد ۱۳۷	t@fa	
-<id_1meauui_1w1_5lr4cv>	<حسن_روحانی>	<infobtermstart>	t۱۲ مرداد ۱۳۹	t@fa	
-<id_1meauui_1w1_pmj15y>	<حسن_روحانی>	<infobtermstart>	t۱۸ اردیبهشت ۱۳۷	t@fa	
-<id_1meauui_1w1_14bf85b>	<حسن_روحانی>	<infobtermstart>	t۲۲ آبان ۱۳۶	t@fa	
-<id_1meauui_1w1_1f916ut>	<حسن_روحانی>	<infobtermstart>	t۲۲ مهر ۱۳۶	t@fa	
-<id_1meauui_1w1_1rdj9je>	<حسن_روحانی>	<infobtermstart>	t۲۹ بهمن ۱۳۷	t@fa	
-<id_1meauui_1w1_1bvqqd7>	<حسن_روحانی>	<infobtermstart>	t۷ خرداد ۱۳۵	t@fa	
-<id_1meauui_1w1_1bvqqep>	<حسن_روحانی>	<infobtermstart>	t۷ خرداد ۱۳۷	t@fa	
-<id_1meauui_1n2_94n6ra>	<حسن_روحانی>	<infobvicepresident>	t[[اسحاق جهانگیری]	t@fa	
-<id_1meauui_mcq_7shk77>	<حسن_روحانی>	<infobwebsite>	t[htt/rouhani.ir rouhani.ir]{{سخ}}[htt/president.ir president.ir	t@fa	
+egrep	"حسن_روحانی" yagoInfoboxAttributes_fa.tsv 
 ```
 اینا به نظرم جالب اومدن:
 party:
@@ -572,21 +382,16 @@ office:
 grep -i	tiran.*polotic\|politic.*ira	t yagoTypes.tsv 
 ```
 چیزای حالبی توش بود
+```
 wikicat_Political_parties_in_Iran
 wikicat_Political_organisations_in_Iran
 wikicat_Books_about_politics_of_Iran
 wikicat_Iranian_Majlis_Representatives
 wikicat_Government_ministers_of_Iran
-
+```
 جنگ و انتخابات هم ایده ی خوبیه
 ```
 grep -i	tiran.*war\|war.*ira	t yagoTypes.tsv
-```
-```
-<id_p2rs2n_88c_1p2d7gj>	<Operation_Dawn_2>	rdf:type	<wikicat_Military_operations_of_the_Iran–Iraq_War>	
-<id_cg9w8z_88c_b1za0o>	<Order_of_battle_during_the_Iran–Iraq_War>	rdf:type	<wikicat_Battles_involving_Iran>	
-<id_z8ch02_88c_yxhl7a>	<Battle_of_Barbalissos>	rdf:type	<wikicat_Wars_involving_Iran>	
-<id_7b9ku7_88c_1as3fu0>	<Iran_crisis_of_1946>	rdf:type	<wikicat_Cold_War_conflicts>	
 ```
 جنگ رو میشه با کانفلیکت و وار جدا کرد
 ```
@@ -657,30 +462,6 @@ Mohammad Ali Khan Ala al Saltaneh
 مثلا توی تایپ ها اینا رو داریم:
 ```
 cat yagoTaxonomy.tsv | grep -i	tIran.*politic\|politic.*ira	t | cut -f2-
-
-<wikicat_Political_parties_in_Iran>	rdfs:subClassOf	<wordnet_party_108256968>	
-<wikicat_Pan-Iranist_Party_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_National_Front_(Iran)_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Iranian_women_in_politics>	rdfs:subClassOf	<wordnet_woman_110787470>	
-<wikicat_Iranian_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Assassinated_Iranian_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Iranian_political_scientists>	rdfs:subClassOf	<wordnet_political_scientist_110450161>	
-<wikicat_Books_about_politics_of_Iran>	rdfs:subClassOf	<wordnet_book_106410904>	
-<wikicat_Iranian_political_activists>	rdfs:subClassOf	<wordnet_militant_110315837>	
-<wikicat_Ang_Kapatiran_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Madeiran_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Iranian_political_people>	rdfs:subClassOf	<wordnet_person_100007846>	
-<wikicat_Political_scandals_in_Iran>	rdfs:subClassOf	<wordnet_scandal_107223811>	
-<wikicat_Political_repressions_in_Iran>	rdfs:subClassOf	<wordnet_repression_113996571>	
-<wikicat_Iranian_politicians_who_committed_suicide>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Youth_wings_of_political_parties_in_Iran>	rdfs:subClassOf	<wordnet_wing_102151625>	
-<wikicat_Defunct_political_parties_in_Iran>	rdfs:subClassOf	<wordnet_party_108256968>	
-<wikicat_Socialist_Party_(Iran)_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Islamic_Iran_Participation_Front_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Political_organisations_in_Iran>	rdfs:subClassOf	<wordnet_organization_108008335>	
-<wikicat_National_Trust_Party_(Iran)_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_Democracy_Party_(Iran)_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
-<wikicat_New_Iran_Party_politicians>	rdfs:subClassOf	<wordnet_politician_110450303>	
 ```
 که از بین اینا اونایی که سیاستمدارن به درد میخورن
 یعنی
@@ -741,22 +522,7 @@ Ahmad Salamatian
 Ali Abbaspoor Tehrani Fard
 Ali Aghazadeh Dafsari
 Ali Akbar Moinfar
-Ali Akbar Siassi
-Ali Akbar Zargham
-Ali Khatami
-Ali Mohammad Besharati
-Alireza Sheikhattar
-Amir Hossein Rabii
-Amir Nosrat'ollah Balakhanlou
-Asadollah Abbasi
-Azadeh Shafiq
-de/Abolqasem Naser al Molk
-de/Alinaghi Alikhani
-de/Ebrahim Alam
-de/Mohammed Hossein Saif Qazi
-de/Najaf Qoli Khan Samsam al Saltaneh
-de/Parviz Nikkhah
-de/Zabihollah Bakhshi
+...
 Ebrahim Azizi
 Elham Aminzadeh
 es/Mehranguiz Manoutchehrian
@@ -781,45 +547,7 @@ Hassan Shariatmadari
 Heidar Arfaa
 Hekmat E Shirazi
 Homa Arjomand
-Hosein Dadgar
-Hossein Ghods Nakhai
-Hossein Hashemi
-Hossein Marashi
-Hossein Namazi
-Hossein Navab
-Hushang Hamidi
-Hussein Sheikholeslam
-Isa Kalantari
-Issa Kalantari
-Jaime Ornelas Camacho
-Javad Shahrestani
-Kamal Daneshyar
-Karim Khodapanahi
-Kasra Nikzad
-Kazem Jalali
-Kazem Vaziri Hamaneh
-Mahmoud Djam
-Mahmoud Farshidi
-Manouchehr Ganji
-Maurice Motamed
-Mehrangiz Dowlatshahi
-Mirza Ali Asghar Khan Amin al Soltan
-Mirza Hassan Khan Esfandiary
-Mohammad Ali Hosseini
-Mohammad Ardakani
-Mohammad Bahrami
-Mohammad Beheshti Shirazi
-Mohammad Hosseini (politician)
-Mohammad Hossein Jalali
-Mohammad Hossein Khoshvaght
-Mohammad Jahromi
-Mohammad Montazeri
-Mohammad Reza Hekmat
-Morteza Zarringol
-Mostafa Mir Salim
-Mousa Chegini
-Mousa Namjoo
-Mousa Qorbani
+...
 Mozaffar Alam
 Nasser Minachi
 Nasser Yeganeh
@@ -830,12 +558,7 @@ Parviz C. Radji
 Paulo Cafôfo
 Prince Sadruddin Aga Khan
 Rahimkhan Chalabianloo
-Rasoul Movahedian
-Reza Alamouti
-Roozbeh Farahanipour
-Sadeq Khalilian
-Safdar Rahmat Abadi
-Sedigh Kamangar
+...
 Shah Seyyed Ali Kazemi
 Soheila Darvishkohan
 Yadollah Javani
@@ -955,23 +678,6 @@ rows covered -> +12
 
 ```
 cat yagoTaxonomy.tsv | grep -i "_war.*iran\|iran.*_war"
-<id_1p2d7gj_1m6_1bofoym>	<wikicat_Military_operations_of_the_Iran–Iraq_War>	rdfs:subClassOf	<wordnet_operation_100955060>
-<id_1ihgqg6_1m6_yhnzh7>	<wikicat_World_War_II_Iranian_infantry_weapons>	rdfs:subClassOf	<wordnet_weapon_104565375>	
-<id_xt03n6_1m6_7x3c25>	<wikicat_World_War_II_airfields_in_Iran>	rdfs:subClassOf	<wordnet_airfield_102687992>	
-<id_1mh7eny_1m6_yhnzh7>	<wikicat_Post–Cold_War_weapons_of_Iran>	rdfs:subClassOf	<wordnet_weapon_104565375>	
-<id_1g5bu6_1m6_1c0ik8l>	<wikicat_Post–Cold_War_anti-tank_missiles_of_Iran>	rdfs:subClassOf	<wordnet_missile_103773504>	
-<id_jbbg59_1m6_rxghn>	<wikicat_Amphibious_warfare_vessels_of_the_Islamic_Republic_of_Iran_Navy>	rdfs:subClassOf	<wordnet_vessel_105397333>	
-<id_1cyoiu8_1m6_1azzfx4>	<wikicat_Iranian_war_films>	rdfs:subClassOf	<wordnet_movie_106613686>	
-<id_1a5a323_1m6_1kqv7tc>	<wikicat_World_War_II_sites_in_Iran>	rdfs:subClassOf	<wordnet_site_108651247>	
-<id_y62x9y_1m6_1azzfx4>	<wikicat_Iran–Iraq_War_films>	rdfs:subClassOf	<wordnet_movie_106613686>	
-<id_fr6t43_1m6_1jvsmsf>	<wikicat_Naval_battles_of_the_Iran–Iraq_War_involving_the_United_States>	rdfs:subClassOf	<wordnet_naval_battle_100958477>	
-<id_pmn72v_1m6_1jvsmsf>	<wikicat_Naval_battles_of_the_Iran–Iraq_War>	rdfs:subClassOf	<wordnet_naval_battle_100958477>	
-<id_yxhl7a_1m6_ih3z61>	<wikicat_Wars_involving_Iran>	rdfs:subClassOf	<wordnet_war_100973077>	
-<id_1wu7ndg_1m6_hsj9sm>	<wikicat_Iranian_people_of_World_War_II>	rdfs:subClassOf	<wordnet_person_100007846>	
-<id_1we9tld_1m6_hsj9sm>	<wikicat_Iraqi_people_of_the_Iran–Iraq_War>	rdfs:subClassOf	<wordnet_person_100007846>	
-<id_rf5u43_1m6_i8qkog>	<wikicat_United_Nations_Security_Council_resolutions_concerning_the_Iran–Iraq_War>	rdfs:subClassOf	<wordnet_resolution_106511874>	
-<id_19t5gzz_1m6_pw63pf>	<wikicat_Iranian_civil_wars>	rdfs:subClassOf	<wordnet_civil_war_100962567>	
-<id_s54w9t_1m6_hsj9sm>	<wikicat_Iranian_people_of_the_Iran–Iraq_War>	rdfs:subClassOf	<wordnet_person_100007846>	
 ```
 که از بین اینا
 اینا به درد میخورن:
@@ -1011,8 +717,8 @@ grep -i "isMarriedTo" yagoFacts.tsv | cut -f2- > facts_spouse
 <graduatedFrom>
 ```
 rows covered -> (hasgender) 518
-(grad) 114
-(Born) 292
+-> (grad) 114
+-> (Born) 292
 البته برای دانشگاه مجبور شدم که یه رابطه ی m to m تعریف کنم.
 
 حالا با برنامه ی politician_party.py سیاساتمدارها رو به حزب هاشون وصل میکنیم.
@@ -1026,4 +732,4 @@ rows covered -> +129
 rows covered -> 63
 
 به جز لیبل های فارسی در کل 2393 ردیف پوشش داده شد.
-(789 labeled, total:3182)
+(829 labeled, total: 3222)
