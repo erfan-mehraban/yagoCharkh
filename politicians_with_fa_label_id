@@ -1,10 +1,10 @@
 id,politician_tag,label,labeledOrTranslated,gender,born_city
 1,Abbas Abdi,"عباس عبدی (سیاستمدار)",labeled,m,NotGiven
-2,Abbas Adham,عباس ادهم,labeled,m,NotGiven
+2,Abbas Adham,"عباس ادهم",labeled,m,NotGiven
 3,Abbas Ahmad Akhoundi,"عباس احمد آخوندی",labeled,m,NotGiven
 4,Abbas Ali Khalatbari,"عباسعلي خلعتبري",labeled,m,Tehran
 5,Abbas Amir Entezam,"عباس اميرانتظام",labeled,m,Tehran
-6,Abbas Aram,غلام‌عباس آرام,labeled,m,NotGiven
+6,Abbas Aram,"غلام‌عباس آرام",labeled,m,NotGiven
 7,Abbas Foroughi Bastami,"فروغي بسطامي",labeled,n,NotGiven
 8,Abbas Gharabaghi,"عباس قره باغی",labeled,m,Tabriz
 9,Abbas maleki,"عباس ملكي",labeled,m,NotGiven
@@ -18,7 +18,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 17,Abdol Majid Mirza,"عین‌الدوله",labeled,n,NotGiven
 18,Abdolmalek Rigi,"مالك ريگي",labeled,m,NotGiven
 19,Abdolreza Mesri,"عبدالرضا مصري",labeled,m,Kermanshah
-20,Abdolreza Rahmani Fazli,"رحمانی فضلی",labeled,m,Shirvan,_Iran
+20,Abdolreza Rahmani Fazli,"رحمانی فضلی",labeled,m,Shirvan_Iran
 21,Abdolvahed Mousavi Lari,"عبدالواحد موسوي لاري",labeled,m,Tehran
 22,Abdul Karim Mousavi Ardebili,"موسوي اردبيلي",labeled,m,Ardabil
 23,Abdullah Entezam,"عبدالله انتظام وزیری",labeled,m,NotGiven
@@ -39,7 +39,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 38,Ahmad Madani,"احمد مدني",labeled,m,Kerman
 39,Ahmad Masjed Jamei,"احمد مسجد جامعي",labeled,m,Tehran
 40,Ahmad Matin Daftari,"متین الدوله",labeled,m,Tehran
-41,Ahmad Mirfendereski,احمد میرفندرسکی,labeled,m,NotGiven
+41,Ahmad Mirfendereski,"احمد میرفندرسکی",labeled,m,NotGiven
 42,Ahmad Moftizadeh,"احمد مفتی‌زاده",labeled,m,NotGiven
 43,Ahmad Qavam,"احمد قوام السلطنه",labeled,m,Tehran
 44,Ahmad Sayyed Javadi,"احمد صدرحاج سید جوادی",labeled,m,Qazvin
@@ -52,15 +52,15 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 51,Akbar Mohammadi (student),"اکبر محمدی (فعال دانشجویی)",labeled,m,Amol
 52,Akbar Torkan,"اكبر تركان",labeled,m,Tehran
 53,Alaeddin Boroujerdi,"علاالدين بروجردي",labeled,m,NotGiven
-54,Alberto João Jardim,مادیرا,labeled,m,Funchal
-55,Ali Akbar Bahman,سید باقر کاظمی,labeled,m,NotGiven
+54,Alberto João Jardim,"مادیرا",labeled,m,Funchal
+55,Ali Akbar Bahman,"سید باقر کاظمی",labeled,m,NotGiven
 56,Ali Akbar Davar,"علي اكبر داور",labeled,m,Tehran
 57,Ali Akbar Dehkhoda,"میرزا علی‌اکبر خان قزوینی",labeled,m,Tehran
 58,Ali Akbar Javanfekr,"علي اكبر جوانفكر",labeled,m,Tehran
 59,Ali Akbar Mehrabian,"علي اكبر محرابيان",labeled,m,NotGiven
 60,Ali Akbar Mohtashamipur,"علي اكبر محتشمي",labeled,m,Tehran
 61,Ali Akbar Mousavi Khoeini,"علی اکبر موسوی خوئینی",labeled,m,NotGiven
-62,Ali Akbar Nategh Nouri,"علی‌اکبر ناطق نوری",labeled,m,Nur,_Iran
+62,Ali Akbar Nategh Nouri,"علی‌اکبر ناطق نوری",labeled,m,Nur_Iran
 63,Ali Akbar Salehi,"علی‌اکبر صالحی",labeled,m,Karbala
 64,Ali Akbar Velayati,"علی‌اکبر ولایتی",labeled,m,Tehran
 65,Ali Amini,"علی امینی",labeled,m,Tehran
@@ -99,8 +99,8 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 98,Amir Abbas Hoveyda,"عباس هويدا",labeled,m,Tehran
 99,Amir Abdollah Tahmasebi,"عبدالله‌خان امیر طهماسبی",labeled,m,Tehran
 100,Amir Arshad,"امیر فرشاد ابراهیمی",labeled,m,Tehran
-101,Amir Kabir,"سد کرج",labeled,m,Arak,_Iran
-102,Amir Khosrow Afshar,امیرخسرو افشار قاسملو,labeled,m,NotGiven
+101,Amir Kabir,"سد کرج",labeled,m,Arak_Iran
+102,Amir Khosrow Afshar,"امیرخسرو افشار قاسملو",labeled,m,NotGiven
 103,Amir Mohebbian,"امير محبيان",labeled,m,Tehran
 104,Amirreza Amirbakhtiar,"اميررضا اميربختيار",labeled,m,Ahvaz
 105,Amir Reza Khadem,"اميررضا خادم",labeled,m,NotGiven
@@ -115,7 +115,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 114,Asghar Parsa,"اصغر پارسا",labeled,m,Khoy
 115,Ashraf Dehghani,"اشرف دهقانی",labeled,f,NotGiven
 116,Ashraf Pahlavi,"اشرف‌الملوک پهلوی",labeled,f,Tehran
-117,Ata'ollah Mohajerani,"سید عطاالله مهاجرانی",labeled,m,Arak,_Iran
+117,Ata'ollah Mohajerani,"سید عطاالله مهاجرانی",labeled,m,Arak_Iran
 118,Azam Taleghani,"اعظم طالقاني",labeled,f,NotGiven
 119,Azizkhan Mokri,"سردار عزيز خان مكري",labeled,n,NotGiven
 120,Bahaedin Adab,"بهاءالدين ادب",labeled,m,NotGiven
@@ -140,9 +140,9 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 139,de/Mohammad Ali Khan Ala al Saltaneh,"میرزا محمدعلی خان علاءالسلطنه",labeled,n,NotGiven
 140,de/Seyed Mehdi Miraboutalebi,"سید مهدی میرابوطالبی",labeled,n,NotGiven
 141,Div Sultan Rumlu,"دیوسلطان",labeled,m,NotGiven
-142,Ebrahim Asgharzadeh,"ابراهیم اصغرزاده",labeled,m,Khash,_Iran
+142,Ebrahim Asgharzadeh,"ابراهیم اصغرزاده",labeled,m,Khash_Iran
 143,Ebrahim Hakimi,"ابراهیم حکیم الممالک",labeled,m,Tabriz
-144,Ebrahim Khan Kalantar,شرف‌الدوله کلانتر,labeled,m,NotGiven
+144,Ebrahim Khan Kalantar,"شرف‌الدوله کلانتر",labeled,m,NotGiven
 145,Ebrahim Yazdi,"ابراهم يزدي",labeled,m,Qazvin
 146,Effat Shariati,"عفت شریعتی کوه بنانی",labeled,f,Mashhad
 147,Elaheh Koulaei,"الههٔ کولائی",labeled,f,NotGiven
@@ -155,7 +155,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 154,Ezzatollah Sahabi,"عزت اللّه سحابي",labeled,m,Tehran
 155,Faezeh Hashemi,"فائزهٔ هاشمي رفسنجاني",labeled,f,Tehran
 156,Farah Pahlavi,"شاهزاده فرحناز پهلوي",labeled,f,Tehran
-157,Farhang Mehr,فرهنگ مهر,labeled,m,NotGiven
+157,Farhang Mehr,"فرهنگ مهر",labeled,m,NotGiven
 158,Farrokhroo Parsa,"فَرُّخ‌رو پارسا",labeled,f,Qom
 159,Fatemeh Haghighatjoo,"فاطمهٔ حقیقت جو",labeled,f,NotGiven
 160,Fatemeh Karroubi,"فاطمهٔ کروبی",labeled,f,NotGiven
@@ -169,7 +169,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 168,fa/احمدرضوی,"احمدرضوي",labeled,n,NotGiven
 169,fa/اسدالله بادامچیان,"اسدالله بادامچيان",labeled,n,NotGiven
 170,fa/اسماعیل ططری,"اسماعیل ططری",labeled,n,NotGiven
-171,fa/الیاس نادران,"الیاس نادران",labeled,n,Shahrud,_Iran
+171,fa/الیاس نادران,"الیاس نادران",labeled,n,Shahrud_iran
 172,fa/الله‌یار صالح,"اللهیار صالح",labeled,n,Aran_va_Bidgol
 173,fa/امیرقلی امینی,"امیر قلی امینی",labeled,n,NotGiven
 174,fa/امیر مفخم بختیاری,"شجاع‌السلطان",labeled,n,NotGiven
@@ -232,7 +232,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 231,fa/محمدرضا مخبر,"محمدرضا مخبر",labeled,n,NotGiven
 232,fa/محمد شریعتمداری,"محمد شریعتمداری",labeled,n,Tehran
 233,fa/محمدعلی خنجی,"محمدعلي خنجي",labeled,n,NotGiven
-234,fa/محمد فرهادی,"محمد فرهادي",labeled,n,Shahrud,_Iran
+234,fa/محمد فرهادی,"محمد فرهادي",labeled,n,Shahrud_iran
 235,fa/محمدکاظم سجادپور,"سید محمدکاظم سجادپور",labeled,n,NotGiven
 236,fa/محمد میرزا کاشف‌السلطنه,"محمد میرزا کاشف السلطنه",labeled,n,NotGiven
 237,fa/محمد منتظری,"محمد منتظري",labeled,n,NotGiven
@@ -250,7 +250,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 249,fa/مهدی کلهر,"مهدي كلهر",labeled,n,NotGiven
 250,fa/مهرداد پهلبد,"مهرداد پهلبد",labeled,n,NotGiven
 251,fa/نصرالله فاطمی,"نصرالله فاطمي",labeled,n,NotGiven
-252,fa/نصرت‌الله امینی,"نصرت الله امینی",labeled,n,Arak,_Iran
+252,fa/نصرت‌الله امینی,"نصرت الله امینی",labeled,n,Arak_iran
 253,fa/نظام‌الدین موحد,"نظام الدين موحد",labeled,n,NotGiven
 254,fa/هدایت‌الله متین دفتری,"هدایت الله متین دفتری",labeled,n,NotGiven
 255,fa/یوسف خان امیر مجاهد,"امير مجاهد",labeled,n,NotGiven
@@ -259,7 +259,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 258,Firouz Mirza Nosrat ed Dowleh Farman Farmaian III,"فیروز نصرت الدوله",labeled,n,Tehran
 259,Firouz Nosrat ed Dowleh III,"فیروز نصرت الدوله",labeled,m,Tehran
 260,fr/Mirza Riza Khan,"رضا ارفع‌الدوله",labeled,n,NotGiven
-261,Ghaem Magham Farahani,"قائم مقام فراهانی",labeled,m,Arak,_Iran
+261,Ghaem Magham Farahani,"قائم مقام فراهانی",labeled,m,Arak_iran
 262,Ghasem Sholeh Saadi,"قاسم شعله سعدی",labeled,n,NotGiven
 263,Gholam Ali Haddad Adel,"غلامعلی حداد عادل در انتخابات ریاست‌جمهوری ایران (1392)",labeled,m,Tehran
 264,Gholam Ali Oveisi,"غلام علي اويسي",labeled,m,Qom
@@ -272,7 +272,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 271,Gholam Reza Azhari,"ازهاري",labeled,m,Shiraz
 272,Gholamreza Nikpey,"غلامرضا نيك پي",labeled,m,Isfahan
 273,Gholamreza Takhti,"تختي",labeled,m,NotGiven
-274,Ghorbanali Dorri Najafabadi,"قربانعلی دری نجف ابادی",labeled,m,Rey,_Iran
+274,Ghorbanali Dorri Najafabadi,"قربانعلی دری نجف ابادی",labeled,m,Rey_iran
 275,Habib Elghanian,"القانیان",labeled,m,NotGiven
 276,Habibollah Asgaroladi,"حبيب الله عسكراولادي",labeled,m,Tehran
 277,Habibollah Bitaraf,"حبیب الله بیطرف",labeled,m,NotGiven
@@ -281,7 +281,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 280,Haj Ali Razmara,"حاجیعلی رزم آرا",labeled,m,Tehran
 281,Haji Baba Sheikh,"حاجی باباشیخ",labeled,m,NotGiven
 282,Haji Washington,"حاجي واشنگتن",labeled,m,NotGiven
-283,Hajj Mirza Aghasi,"حاجي ميرزا آقاسي",labeled,m,Maku,_Iran
+283,Hajj Mirza Aghasi,"حاجي ميرزا آقاسي",labeled,m,Maku_iran
 284,Hamid Baqai,"حميدرضا بقايي",labeled,m,NotGiven
 285,Hamid Behbahani,"حمید بهبهانی",labeled,m,Behbahan
 286,Hamid Chitchian,"حمید چیت‌چیان",labeled,m,Tabriz
@@ -313,7 +313,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 312,Hossein Ala',"حسين علاء",labeled,m,Tehran
 313,Hossein Dehghan,"حسين دهقان",labeled,m,Dehaqan
 314,Hossein Fardoust,"ارتشبد فردوست",labeled,m,NotGiven
-315,Hossein Fatemi,"سیدحسین فاطمی",labeled,m,Nain,_Iran
+315,Hossein Fatemi,"سیدحسین فاطمی",labeled,m,Nain_iran
 316,Hossein Kamali,"حسین کمالی",labeled,m,NotGiven
 317,Hossein Saffar Harandi,"صفار هرندي",labeled,m,Gorgan
 318,Hushang Ansary,"هوشنگ انصاري",labeled,m,Ahvaz
@@ -322,7 +322,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 321,Iradj Fazel,"ايرج فاضل",labeled,m,Ardestan
 322,Iraj Eskandari,"ايرج اسكندري",labeled,m,Tehran
 323,Ismail Mumtaz,"اسماعيل ممتاز",labeled,m,NotGiven
-324,Ja'far Pishevari,"سيد جعفر پيشهٔ وري",labeled,m,Khalkhal,_Ardabil
+324,Ja'far Pishevari,"سيد جعفر پيشهٔ وري",labeled,m,Khalkhal_Ardabil
 325,Jafar Sharif Emami,"شریف امامی",labeled,m,Tehran
 326,Jafar Towfighi,"جعفر توفيقي داريان",labeled,m,NotGiven
 327,Jahangir Amuzegar,"جهانگير آموزگار",labeled,m,NotGiven
@@ -351,14 +351,14 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 350,Khosrow Golsorkhi,"خسرو گل سرخي",labeled,m,Rasht
 351,Kuchik Khan,"سردار جنگل",labeled,m,Rasht
 352,Levon Davidian,"لون داويديان",labeled,m,NotGiven
-353,Mahmoud Ahmadinejad,"احمدی‌نژاد",labeled,m,Aradan,_Iran
+353,Mahmoud Ahmadinejad,"احمدی‌نژاد",labeled,m,Aradan_iran
 354,Mahmoud Alavi,"محمود علوي",labeled,m,Lamerd
 355,Mahmoud Hashemi Shahroudi,"محمود هاشمي شاهرودي",labeled,m,Najaf
 356,Mahmoud Hessaby,"دکتر محمود حسابی",labeled,m,NotGiven
 357,Mahmoud Jam,"محمود جم",labeled,m,Tabriz
 358,Mahmoud Taleghani,"محمود علايي طالقاني",labeled,m,NotGiven
 359,Mahmudali Chehregani,"چهرگاني",labeled,m,NotGiven
-360,Mahmud Mahmud,محمود طرزی,labeled,m,NotGiven
+360,Mahmud Mahmud,"محمود طرزی",labeled,m,NotGiven
 361,Majead Ansari,"مجید انصاری",labeled,m,Kerman
 362,Majid Namjoo,"مجید نامجو مطلق",labeled,m,Kerman
 363,Majid Sharif Vaghefi,"مجید شریف واقفی",labeled,m,NotGiven
@@ -400,19 +400,19 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 399,Mohammad Bagher Nobakht,"محمدباقر نوبخت حقيقي",labeled,m,Rasht
 400,Mohammad Beheshti,"شهيد دكتر بهشتي",labeled,m,Isfahan
 401,Mohammad Farrokhi Yazdi,"محمد فرخي يزدي",labeled,m,NotGiven
-402,Mohammad Forouzandeh,محمد فروزنده,labeled,m,NotGiven
+402,Mohammad Forouzandeh,"محمد فروزنده",labeled,m,NotGiven
 403,Mohammad Gharazi,"مهندس غرضي",labeled,m,Isfahan
 404,Mohammad Hasan Khan Qajar,"محمدحسن خان قاجار",labeled,m,NotGiven
 405,Mohammad Hossein Adeli,"محمدحسين عادلي",labeled,m,Ahvaz
 406,Mohammad Javad Bahonar,"آيت الله دكتر باهنر",labeled,m,Kerman
 407,Mohammad Javad Larijani,"محمد جواد لاريجاني",labeled,m,Najaf
-408,Mohammad Javad Tondguyan,محمدجواد تندگویان,labeled,m,NotGiven
+408,Mohammad Javad Tondguyan,"محمدجواد تندگویان",labeled,m,NotGiven
 409,Mohammad Javad Zarif,"جواد ظريف",labeled,m,Tehran
 410,Mohammad Kazem Khorasani,"اخوند ملا كاظم خراساني",labeled,m,NotGiven
 411,Mohammad Kazem Shariatmadari,"ايت الله العظمي شريعتمداري",labeled,m,NotGiven
 412,Mohammad Khan Qajar,"محمدحسن خان قاجار",labeled,m,Gorgan
 413,Mohammad Khatami,"سید محمدخاتمی",labeled,m,Ardakan
-414,Mohammad Khazaee,عرب‌های ایران,labeled,m,Kashmar
+414,Mohammad Khazaee,"عرب‌های ایران",labeled,m,Kashmar
 415,Mohammad Khiabani,"محمد خياباني",labeled,m,NotGiven
 416,Mohammad Khoshchehreh,"محمد خوش چهره",labeled,m,Tehran
 417,Mohammad Marandi,"سید محمد مرندی",labeled,m,NotGiven
@@ -421,7 +421,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 420,Mohammad Mosaddegh,"محمد مصدق السلطنه",labeled,m,Tehran
 421,Mohammad Mousavi Khoeiniha,"موسوی خویینی ها",labeled,m,Qazvin
 422,Mohammad Nahavandian,"نهاوندیان",labeled,m,Tehran
-423,Mohammad Reyshahri,"ری شهری",labeled,m,Rey,_Iran
+423,Mohammad Reyshahri,"ری شهری",labeled,m,Rey_iran
 424,Mohammad Reza Ameli Tehrani,"محمد رضا عاملی تهرانی",labeled,m,Tehran
 425,Mohammad Reza Aref,"محمدرضا عارف در انتخابات ریاست جمهوری ایران (1392)",labeled,m,Yazd
 426,Mohammad Reza Bahonar,"محمد رضا باهنر",labeled,m,Kerman
@@ -444,8 +444,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 443,Mohammad Vali Khan Tonekaboni,"سپهدار اعظم تنکابنی",labeled,m,Tonekabon
 444,Mohammad Yeganeh,"محمد يگانه",labeled,m,NotGiven
 445,Mohammed Kazem Yazdi,"سيد محمدكاظم طباطبايي يزدي",labeled,m,NotGiven
-446,Mohammed Sharif m,NotGiven
-447,kzadeh,"شریف ملک زاده",labeled,m,Shiraz
+446,Mohammed Sharif malekzadeh,"شریف ملک زاده",labeled,m,Shiraz
 448,Mohsen Aminzadeh,"محسن امین‌زاده",labeled,m,NotGiven
 449,Mohsen Armin,"محسن آرمين",labeled,m,NotGiven
 450,Mohsen Hashemi,"محسن هاشمی رفسنجانی",labeled,m,Kerman
@@ -461,13 +460,13 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 460,Mohsen Safaei Farahani,"صفائي فراهاني",labeled,m,NotGiven
 461,Mojtaba Khamenei,"مجتبی خامنه‌ای",labeled,m,NotGiven
 462,Mojtaba Vahedi,"مجتبی واحدی",labeled,m,NotGiven
-463,Morteza Agha Tehrani,"آقاتهرانی",labeled,m,Tiran,_Iran
+463,Morteza Agha Tehrani,"آقاتهرانی",labeled,m,Tiran_Iran
 464,Morteza Alviri,"مرتضی الویری",labeled,m,Tehran
 465,Morteza Bakhtiari,"علي مرتضي صمصام بختياري",labeled,m,NotGiven
 466,Morteza Gholi Khan Hedayat,"مرتضی‌قلی‌خان هدایت",labeled,m,Tehran
 467,Morteza Mohammadkhan,"مرتضي محمدخان",labeled,m,Tehran
 468,Morteza Motahhari,"آيت الله مطهري",labeled,m,Fariman
-469,Morteza Qoli Bayat,"سهام السلطان بيات",labeled,m,Arak,_Iran
+469,Morteza Qoli Bayat,"سهام السلطان بيات",labeled,m,Arak_Iran
 470,Mostafa Chamran,"مصطفی چمران ساوجی",labeled,m,Tehran
 471,Mostafa Kavakebian,"مصطفی کواکبیان",labeled,m,NotGiven
 472,Mostafa Moeen,"مصطفی معین",labeled,m,Najafabad
@@ -479,14 +478,14 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 478,Nader Jahanbani,"نادر جهانبانی",labeled,m,NotGiven
 479,Nader Shah,"نادراباد (هرسین)",labeled,m,Qaem_Shahr
 480,Naser al Din Shah Qajar,"ناصرالدينشاه",labeled,m,Tabriz
-481,Nasr al Din (Yunnan),حمله مغول به برمه,labeled,m,NotGiven
+481,Nasr al Din (Yunnan),"حمله مغول به برمه",labeled,m,NotGiven
 482,Nasrollah Entezam,"نصرالله انتظام وزيري",labeled,m,Tehran
 483,Nasrollah Jahangard,"نصرالله جهانگرد",labeled,m,Tehran
 484,Nasser Hejazi,"ناصر حجازی",labeled,m,Tehran
 485,Nasser Moghadam,"ناصر مقدم",labeled,m,Tehran
 486,Navvab Safavi,"مجتبي نواب صفوي",labeled,m,NotGiven
-487,Nematollah Nassiri,"سرلشكر نصيري",labeled,m,Semnan,_Iran
-488,Nizam al Mulk,"نظام الملک طوسی",labeled,m,Tus,_Iran
+487,Nematollah Nassiri,"سرلشكر نصيري",labeled,m,Semnan_Iran
+488,Nizam al Mulk,"نظام الملک طوسی",labeled,m,Tus_Iran
 489,Noureddin Kianouri,"نورالدین کیانوری",labeled,m,NotGiven
 490,Parvaneh Eskandari Forouhar,"پروانهٔ اسکندری",labeled,f,Tehran
 491,Parviz Davoodi,"پرويز داودي",labeled,m,Tehran
@@ -497,14 +496,14 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 496,Pirouz Davani,"پیروز دوانی",labeled,m,NotGiven
 497,Piruz Dilanchi,"پیروز دیلنچی",labeled,m,Tehran
 498,Qazi Muhammad,"قاضي محمد",labeled,m,Mahabad
-499,Rafat Bayat,"رفعت بیات",labeled,f,Zanjan,_Iran
+499,Rafat Bayat,"رفعت بیات",labeled,f,Zanjan_iran
 500,Rahman Dadman,"رحمان دادمان",labeled,m,Ardabil
 501,Rashid al Din Hamadani,"رشید الدین فضل اللهٔ الهٔمذانی",labeled,m,NotGiven
 502,Rasoul Khadem,"رسول خادم ازغدي",labeled,m,Mashhad
 503,Reza malekzadeh,"رضا ملك زاده",labeled,m,NotGiven
 504,Reza Pahlavi,"رضا پهلوي (پسر)",labeled,m,Tehran
 505,Rezā Shāh,"رضا خان پهلوي",labeled,m,Alasht
-506,Reza Sheykholeslam,"عبدالرضا شيخ الاسلامي",labeled,m,Chalus,_Iran
+506,Reza Sheykholeslam,"عبدالرضا شيخ الاسلامي",labeled,m,Chalus_iran
 507,Reza Taghipour,"رضا تقی‌پور انواری",labeled,m,Maragheh
 508,Reza Zanjani,"سید رضا زنجانی",labeled,m,NotGiven
 509,Rostam Ghasemi,"رستم قاسمي",labeled,m,NotGiven
@@ -512,7 +511,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 511,Ruhollah Khomeini,"روح‌الله خميني",labeled,m,Khomeyn
 512,Saad ad Daula,"نجفقلی بختیاری",labeled,m,NotGiven
 513,Sadegh Ghotbzadeh,"صادق قطب زاده",labeled,m,Isfahan
-514,Sadegh Khalkhali,"محمد صادق خلخالی",labeled,m,Khalkhal,_Ardabil
+514,Sadegh Khalkhali,"محمد صادق خلخالی",labeled,m,Khalkhal_Ardabil
 515,Sadegh Mahsouli,"محمدصادق محصولي",labeled,m,Urmia
 516,Sadegh Sharafkandi,"دكتر شرفكندي",labeled,m,NotGiven
 517,Sadegh Tabatabai,"صادق طباطبايي",labeled,m,Qom
@@ -563,7 +562,7 @@ id,politician_tag,label,labeledOrTranslated,gender,born_city
 562,Ali Akbar Moinfar,"علی اکبر موینفار",translated,m,NotGiven
 563,Ali Akbar Siassi,"علی اکبر سیسی",translated,m,NotGiven
 564,Ali Akbar Zargham,"علی اکبر زرقام",translated,m,NotGiven
-565,Ali Khatami,"علی خاتمی",translated,m,Arak,_Iran
+565,Ali Khatami,"علی خاتمی",translated,m,Arak_Iran
 566,Ali Mohammad Besharati,"علی محمد بشارتاتی",translated,m,NotGiven
 567,Alireza Sheikhattar,"علیرضا شیخترار",translated,m,NotGiven
 568,Amir Hossein Rabii,"امیر حسین ربیعی",translated,m,NotGiven

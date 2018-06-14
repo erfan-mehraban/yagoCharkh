@@ -1,4 +1,4 @@
-id,treaty_tag,label,labeledOrTranslated
+id,treaty_tag,fa_label,labeledOrTranslated
 1,1975 Algiers Agreement,"معاهده الجزاير",labeled
 2,Algiers Accords,"قرارداد ۱۹۸۱ الجزایر",labeled
 3,Anglo Persian Agreement,"قرارداد استعماري 1919",labeled
@@ -43,7 +43,7 @@ id,treaty_tag,label,labeledOrTranslated
 42,Convention relating to International Exhibitions,"کنوانسیون مربوط به نمایشگاه های بین المللی",translated
 43,Framework Convention for the Protection of the Marine Environment of the Caspian Sea,"کنوانسیون چارچوب حفاظت از محیط دریایی دریای خزر",translated
 44,Hostages Convention,"قرارداد گروگان ها",translated
-45,Human Resources Development Convention, 1975,"کنوانسیون توسعه منابع انسانی، 1975",translated
+45,Human Resources Development Convention\, 1975,"کنوانسیون توسعه منابع انسانی، 1975",translated
 46,Intergovernmental Agreement on the Asian Highway Network,"توافقنامه بین دولتی در شبکه بزرگراه آسیا",translated
 47,International Convention against Apartheid in Sports,"کنوانسیون بین المللی آپارتاید در ورزش",translated
 48,International Convention against Doping in Sport,"کنوانسیون بین المللی ضد دوپینگ در ورزش",translated
